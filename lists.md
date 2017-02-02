@@ -11,5 +11,9 @@ Python Resources
 
 [3/ Practice Python](http://www.practicepython.org/exercises/) : can learn from various community uploaded solutions
   - [Resoruces ref.](http://www.practicepython.org/resources-for-learners/)
+  
+[4/ 100 Python exercies](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
+
+[5/ What are some good coding competition/practice sites?](https://www.quora.com/What-are-some-good-coding-competition-practice-sites)
 
  
