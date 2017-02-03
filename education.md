@@ -4,8 +4,8 @@
 > the method and practice of teaching, especially as an academic subject or theoretical concept.
 
 [Education Startups](http://christinacacioppo.com/blog/education-startups){:target="_blank"}  
->Successful, fast-growing businesses are being built in education outside of teaching: Clever, Remind, TeachersPayTeachers, and ClassDojo are four I admire. All four build tools, and in 2015, if you want an education business that can grow quickly, build a tool that thousands of teachers could find useful.  
->If you want to teach, prepare for a slog. Teaching online is in an R&D phase: we don’t know how to teach online in an internet-native way, and we definitely don’t know how to monetize online teaching in an internet-native way. More bluntly: though teaching the world sounds great, no one’s figured out how to do it.
+> Successful, fast-growing businesses are being built in education outside of teaching: Clever, Remind, TeachersPayTeachers, and ClassDojo are four I admire. All four build tools, and in 2015, if you want an education business that can grow quickly, build a tool that thousands of teachers could find useful.  
+> If you want to teach, prepare for a slog. Teaching online is in an R&D phase: we don’t know how to teach online in an internet-native way, and we definitely don’t know how to monetize online teaching in an internet-native way. More bluntly: though teaching the world sounds great, no one’s figured out how to do it.
 
 [**Why Learning to Code is So Damn Hard**](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard){:target="_blank"} - every beginner absolutely needs to know journey ahead  
 
@@ -32,8 +32,10 @@
 - stage 1: Complex Solution to Simple Problem
 - stage 2: Complex Solution to Complex Problem
 - stage 3: Simple Solution to Complex Problem  
+
 after so many years of programming, I may be at 2.2 , with Recent Python lang expertise I amy be at 2.4 now .  
 when hiring somebody, you need to explain This CONCEPT to them, ask them to Rate themselves.  
+
 > The Utimate goal of any programmer is to PROVIDE SOLUTIONS, if he/she can do SS to CP that is **Programmer Nirvana**  
 > In order to get Simple Solutions, one should aware of "what is out there" ( what other people have built all over the world in Open Source communities (github), what are the some of Best of Bread solutions in a given domain ( say Rails , Djanago, user Auth solutions etc)
 
