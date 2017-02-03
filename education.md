@@ -1,4 +1,22 @@
 ### All topics in Educaton, Learing, Pedagogy, Online
+[anchor to Developer sec](#devsection)
+
++ Facilisis in pretium nisl aliquet
++ Nulla volutpat aliquam velit
+  - Phasellus iaculis nequd
+  - Ac tristique libero volutpat at
++ Faucibus porta lacus fringilla vel
++ Aenean sit amet erat nunc
+
+| Option | Description |
+| :------| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+```
+Kramdown::Document.new( 'Hello Markdown!' ).to_html
+```
 
 #### Pedagody (noun)
 > the method and practice of teaching, especially as an academic subject or theoretical concept.
@@ -19,7 +37,7 @@
 > By the end of the summer, the **stronger students were those who had made more mistakes**: they’d tried more things, compiled more bad code, hit more runtime errors, and confused the REPL more soundly. Their banging produced better mental models, so they could anticipate what code would do when run. **When students experimented in logical ways, they developed confidence in solving problems with code.**
 
 
-### Once you are a develper : Programming ( Coding )
+### Once you are a develper : Programming ( Coding )<a id="contact_form"></a>
 ---
 1/ The Most Important Developer Skill : [Learning How to Learn](https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.6q3haejpo){:target="_blank"}  
 
