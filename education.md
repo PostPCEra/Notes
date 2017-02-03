@@ -21,7 +21,7 @@
 
 ### Once you are a develper : Programming ( Coding )
 ---
-The Most Important Developer Skill : [Learning How to Learn](https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.6q3haejpo){:target="_blank"}  
+1/ The Most Important Developer Skill : [Learning How to Learn](https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.6q3haejpo){:target="_blank"}  
 
 > Being an **efficient learner** is at least as important as being an **efficient coder**.
 > When you’re a developer, your job requires you to learn every single day. You constantly encounter new code bases and new technical challenges at work.
@@ -29,9 +29,15 @@ The Most Important Developer Skill : [Learning How to Learn](https://medium.free
 > Long story short: learning is hard. Yet, **we need to be able to learn quickly and effectively to thrive**.
 
 #### Growth stages of a Programmer 
-- stage 1: Complex Solutions to Simple Problems
-- stage 2: Complex Solutions to Complex Problems
-- stage 3: Simple Solutions to Complex Problems
+- stage 1: Complex Solution to Simple Problem
+- stage 2: Complex Solution to Complex Problem
+- stage 3: Simple Solution to Complex Problem  
+after so many years of programming, I may be at 2.2 , with Recent Python lang expertise I amy be at 2.4 now .  
+when hiring somebody, you need to explain This CONCEPT to them, ask them to Rate themselves.  
+> The Utimate goal of any programmer is to PROVIDE SOLUTIONS, if he/she can do SS to CP that is **Programmer Nirvana**  
+> In order to get Simple Solutions, one should aware of "what is out there" ( what other people have built all over the world in Open Source communities (github), what are the some of Best of Bread solutions in a given domain ( say Rails , Djanago, user Auth solutions etc)
+
+
 
 
 [![Jekyll Static Site gen](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=oiNVQ9Zjy4o)
