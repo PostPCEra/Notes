@@ -4,14 +4,14 @@ Python Resources
 [0. Print Lang Refernce paper as laminate sheet set]
 [ do these problems on Paper]()
 
-[Practice Python](http://www.practicepython.org/exercises/) : a) beginer Problem sets b) prograsively complex sets c)can learn from various community uploaded solutions
+[1/ Practice Python](http://www.practicepython.org/exercises/) : a) beginer Problem sets b) prograsively complex sets c)can learn from various community uploaded solutions
    [Resoruces ref.](http://www.practicepython.org/resources-for-learners/)
   
-[ Detailted Concept Tutorials](https://www.programiz.com/python-programming/class)
+[2/ Detailted Concept Tutorials](https://www.programiz.com/python-programming/class)
 [ Learn X in Y minutes: ](https://learnxinyminutes.com/docs/python3/): One Page quick Lang Reference
 [ Quick Refence Slides](http://pycubator.com/index.html)
 
-[ exercisim](http://exercism.io/tracks/python/exercises/leap)
+[3/ exercisim](http://exercism.io/tracks/python/exercises/leap)
  - Same Exercise Problem sets for all Languages, Crowed will create Problem Sets
  - submit code from command line ( download ), on web shows multiple iterations of a USER code in Tabs ( dd not see many people commenting)
  - [HN Review questions](https://news.ycombinator.com/item?id=9307570) security risk of downloading command line tools, ask why not Weppage Paste
