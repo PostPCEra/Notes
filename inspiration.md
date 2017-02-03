@@ -10,3 +10,5 @@
 [Journey](https://www.linkedin.com/in/jenniferdewalt){:target="_blank"}
 
 #### Products : Applications
+**Presentation (Slides)** : [Spectacle](http://formidable.com/open-source/spectacle/){:target="_blank"}
+with [Code Slide](http://thejameskyle.com/spectacle-code-slide/){:target="_blank"}
