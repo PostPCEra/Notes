@@ -8,18 +8,21 @@
 >If you want to teach, prepare for a slog. Teaching online is in an R&D phase: we don’t know how to teach online in an internet-native way, and we definitely don’t know how to monetize online teaching in an internet-native way. More bluntly: though teaching the world sounds great, no one’s figured out how to do it.
 
 [**Why Learning to Code is So Damn Hard**](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard){:target="_blank"} - every beginner absolutely needs to know journey ahead  
+
 - Phase I: The Hand-Holding Honeymoon
 - Phase II: The Cliff of Confusion
 - Phase III: The Desert of Despair
 - Phase IV: The Upswing of Awesome
 
 [**LEARNING ONLINE**](http://christinacacioppo.com/blog/learning-online){:target="_blank"}  
+
 > By the end of the summer, the **stronger students were those who had made more mistakes**: they’d tried more things, compiled more bad code, hit more runtime errors, and confused the REPL more soundly. Their banging produced better mental models, so they could anticipate what code would do when run. **When students experimented in logical ways, they developed confidence in solving problems with code.**
 
 
 ### Once you are a develper : Programming ( Coding )
 ---
 The Most Important Developer Skill : [Learning How to Learn](https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.6q3haejpo){:target="_blank"}  
+
 > Being an **efficient learner** is at least as important as being an **efficient coder**.
 > When you’re a developer, your job requires you to learn every single day. You constantly encounter new code bases and new technical challenges at work.
 > The tech world changes fast, and it can feel like a full-time job just keeping up with the latest tools, languages and frameworks.
@@ -31,4 +34,4 @@ The Most Important Developer Skill : [Learning How to Learn](https://medium.free
 - stage 3: Simple Solutions to Complex Problems
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Jekyll Static Site gen](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=oiNVQ9Zjy4o)
