@@ -25,7 +25,7 @@ The Most Important Developer Skill : [Learning How to Learn](https://medium.free
 > The tech world changes fast, and it can feel like a full-time job just keeping up with the latest tools, languages and frameworks.
 > Long story short: learning is hard. Yet, **we need to be able to learn quickly and effectively to thrive**.
 
-#### Developer Growth stages  
+#### Growth stages of a Programmer 
 - stage 1: Complex Solutions to Simple Problems
 - stage 2: Complex Solutions to Complex Problems
 - stage 3: Simple Solutions to Complex Problems
