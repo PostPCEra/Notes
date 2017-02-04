@@ -6,7 +6,7 @@
 - JQuery or React : Exercisim is using JQuery, React may be overkill think
 - PostgreSql : 2/3 of YC startup voted for it ( data from Triplebyte.com job posts )
 
-- code diff bewteen versions ( JS component )  
+- code diff bewteen versions ( JS component ) [Ace-diff](http://benkeen.github.io/ace-diff/){:target="_blank"}  , here is [Diff Patch query](https://github.com/search?o=desc&p=2&q=Diff+patch+&s=stars&type=Repositories&utf8=%E2%9C%93){:target="_blank"} 
 - [Teach ApCS](http://teachapcs.com/explore)  
 - SEdit - do we still need that 2 pane layout
 
@@ -22,7 +22,7 @@
 *Django :* [Docs on Stackoverflow]()  
   
 
-*React-Redux :* [good code](https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/actions/posts.js){target="_blank"} , [blog post](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.o18p7ch0b){target="_blank"}  
+*React-Redux :* [good code](https://github.com/rajaraodv/react-redux-blog/blob/master/public/src/actions/posts.js) , [blog post](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.o18p7ch0b){:target="_blank"}  
 - starter Kit : [here](https://github.com/davezuko/react-redux-starter-kit){target="_blank"} combine this boilerplate with above Rajarao CRUD app  
 
 *Go Lang :* [What is Go lang good for?](https://www.quora.com/What-is-golang-good-for)  
