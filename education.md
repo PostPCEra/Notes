@@ -1,27 +1,28 @@
-### All topics in Educaton, Learing, Pedagogy, Online
-[anchor to Developer sec](#devsection)
-
-+ Facilisis in pretium nisl aliquet
-+ Nulla volutpat aliquam velit
-  - Phasellus iaculis nequd
-  - Ac tristique libero volutpat at
-+ Faucibus porta lacus fringilla vel
-+ Aenean sit amet erat nunc
-
-| Option | Description |
-| :------| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-```
-Kramdown::Document.new( 'Hello Markdown!' ).to_html
-```
 
 #### Pedagody (noun)
 > the method and practice of teaching, especially as an academic subject or theoretical concept.
 
+## All about Learning by Teaching
+---
+#### Learning by Teaching : [German: Lernen durch Lehren, short LdL](https://en.wikipedia.org/wiki/Learning_by_teaching){:target="_blank"}  
+> learning by teaching (German: Lernen durch Lehren, short LdL) designates currently the method by Jean-Pol Martin that allows pupils and students to prepare and to teach lessons, or parts of lessons.
+> Students not only convey a certain content, but also choose their own methods and didactic approaches in teaching classmates that subject
+
+#### The Cone of Learning :
+After 2 weeks we tend to remember 90% of What we SAY & DO [from UC Davis](http://stew.ucdavis.edu/Shared_Resources/Shared_Resources_Online/Delivery/Teaching_Methods/){:target="_blank"}
+![alt text](http://stew.ucdavis.edu/files/134989display.png)  
+
+#### Some Proof in the wild
+- Students learn more [if they’ll need to teach others](http://www.futurity.org/learning-students-teaching-741342/){:target="_blank"}  
+- Why You Should Teach What You Know, [Even If You Aren't an Expert](http://lifehacker.com/teach-others-what-you-know-to-make-connections-and-lear-1639560273){:target="_blank"}
+- How Teaching [Can Help You Learn](http://idealistcareers.org/teach-to-learn/){:target="_blank"}  
+
+> You can’t just stand there and lecture. You need to change your facial expression and be animated, share some jokes, tailor your message to your audience, and be personable. Even if you’re not a teacher, being able to do this will help you anytime you need to make a presentation or address a group of people.
+
+## All topics in Educaton, Learing, Pedagogy, Online
+---
 [Education Startups](http://christinacacioppo.com/blog/education-startups){:target="_blank"}  
+
 > Successful, fast-growing businesses are being built in education outside of teaching: Clever, Remind, TeachersPayTeachers, and ClassDojo are four I admire. All four build tools, and in 2015, if you want an education business that can grow quickly, build a tool that thousands of teachers could find useful.  
 > If you want to teach, prepare for a slog. Teaching online is in an R&D phase: we don’t know how to teach online in an internet-native way, and we definitely don’t know how to monetize online teaching in an internet-native way. More bluntly: though teaching the world sounds great, no one’s figured out how to do it.
 
