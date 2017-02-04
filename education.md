@@ -4,7 +4,9 @@
 
 ## All about Learning by Teaching
 ---
+
 #### Learning by Teaching : [German: Lernen durch Lehren, short LdL](https://en.wikipedia.org/wiki/Learning_by_teaching){:target="_blank"}  
+
 > learning by teaching (German: Lernen durch Lehren, short LdL) designates currently the method by Jean-Pol Martin that allows pupils and students to prepare and to teach lessons, or parts of lessons.
 > Students not only convey a certain content, but also choose their own methods and didactic approaches in teaching classmates that subject
 
