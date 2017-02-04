@@ -2,7 +2,7 @@
 
 
 ### Our Technology Stack
-- Django : why? Web and Mobile apps are driven by REST API, so REST API + Front-end ( React or JQuery)
+- Django : why? Web and Mobile apps are driven by REST API, so REST API + Front-end ( React or JQuery). I think we used this [boilerplate](https://github.com/pydanny/cookiecutter-django){:target="_blank"}
 - JQuery or React : Exercisim is using JQuery, React may be overkill think
 - PostgreSql : 2/3 of YC startup voted for it ( data from Triplebyte.com job posts )
 
