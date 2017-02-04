@@ -30,4 +30,27 @@ Stackoverflow - PYthon Documentation
 -------------------------------------
 - [Python List](http://stackoverflow.com/documentation/python/209/list/2035/list-methods-and-supported-operators#t=20170203091604081581)  
 - [Python Class](http://stackoverflow.com/documentation/python/419/classes/10522/introduction-to-classes#t=201702030901065640241)
-- [Python Mastery](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
+- [Python Mastery](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)  
+
+# Markdown examples
+---
+[anchor to Developer sec](#devsection)
+
++ Facilisis in pretium nisl aliquet
++ Nulla volutpat aliquam velit
+  - Phasellus iaculis nequd
+  - Ac tristique libero volutpat at
++ Faucibus porta lacus fringilla vel
++ Aenean sit amet erat nunc
+
+| Option | Description |
+| :------| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+```
+Kramdown::Document.new( 'Hello Markdown!' ).to_html
+```
+
+
