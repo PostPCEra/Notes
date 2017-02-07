@@ -5,20 +5,19 @@ date: 2012-05-22 16:25:06 -0700
 comments: true
 ---
 
-#### Install Table 
+#### Install & Setup  
 
-| Results |Stack Component            |       |       |        |       |
-|:-------:|---------------------------|-------|-------|--------|-------|
-| No      | Competxx            ition | John  | Adam  | Robert | Paul  |
-| 1       | Swimming                  |  1:30 |  2:05 |   1:15 |  1:41 |
-| 2       | Running                   | 15:30 | 14:10 |  15:45 | 16:00 |
-| 3       | Shooting            dd    |   70% |   55% |    90% |   88% |
+| Iten    | Stack Component           |       |       |        |
+|:--------|:--------------------------|:------|:------|:-------|
+| 1       | Dnango REST API           | John  | Adam  | Robert |
+| 2       | PostgreSQL DB             |  1:30 |  2:05 |   1:15 |
+| 3       | React Redux Boilerplate   | 15:30 | 14:10 |  15:45 |
+| 4       | Redux coding Styles(Rajarao)|70%  |   55% |    90% |
 
 
 ##### Integrate Table 
 
-+----------------------------------------------------------------+
-|Item #| Stack Name       | Status   | Ref. Url  | Notes | Paul  |
+|Item | Stack Name       | Status   | Ref. Url  | Notes | Paul |
 +------+------------------+----------+-------+--------+-------+
 | 1    | JQuery page display   |  Done    |  2:05 |   1:15 |  1:41 |
 +------+------------------+----------+-------+--------+-------+
