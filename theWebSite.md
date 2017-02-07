@@ -17,14 +17,13 @@ comments: true
 
 ##### Integrate Table 
 
-|Item | Stack Name       | Status   | Ref. Url  | Notes | Paul |
-+------+------------------+----------+-------+--------+-------+
-| 1    | JQuery page display   |  Done    |  2:05 |   1:15 |  1:41 |
-+------+------------------+----------+-------+--------+-------+
-| 2    |  file diff patch | Done     | 14:10 |  15:45 | 16:00 |
-+------+-------------+-------+-------+--------+-------+
-| 3    |      |   70% |   55% |    90% |   88% |
-+----+-------------+-------+-------+--------+-------+
+| Iten    | Stack Component           |                  |       
+|:--------|:--------------------------|:---------------|:------
+| 1       | Bootbox                   | JS Alerts Lib  | 4k github stars[BootBox1] 
+| 2       | PostgreSQL DB             |  1:30 |  2:05 
+
+
+[Bootbox](http://bootboxjs.com/examples.html){:target="_blank"}
 
 #### Model Sites  
 - [table generator](http://www.tablesgenerator.com/markdown_tables){:target="_blank"} - very simple bootstrap "Tight" bootstrap menu items  
