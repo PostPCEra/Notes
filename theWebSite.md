@@ -19,7 +19,7 @@ comments: true
 
 | Iten    | Stack Component           |                  |       
 |:--------|:--------------------------|:---------------|:------
-| 1       | Bootbox                   | JS Alerts Lib  | 4k github stars[BootBox1] 
+| 1       | Bootbox                   | JS Alerts Lib  | [4k github stars][BootBox1] 
 | 2       | PostgreSQL DB             |  1:30 |  2:05 
 
 
