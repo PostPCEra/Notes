@@ -7,12 +7,12 @@ comments: true
 
 #### Install Table 
 
-| Results |             |       |       |        |       |
-|:-------:|-------------|-------|-------|--------|-------|
-| No      | Competition | John  | Adam  | Robert | Paul  |
-| 1       | Swimming    |  1:30 |  2:05 |   1:15 |  1:41 |
-| 2       | Running     | 15:30 | 14:10 |  15:45 | 16:00 |
-| 3       | Shooting    |   70% |   55% |    90% |   88% |
+| Results |Stack Component            |       |       |        |       |
+|:-------:|---------------------------|-------|-------|--------|-------|
+| No      | Competxx            ition | John  | Adam  | Robert | Paul  |
+| 1       | Swimming                  |  1:30 |  2:05 |   1:15 |  1:41 |
+| 2       | Running                   | 15:30 | 14:10 |  15:45 | 16:00 |
+| 3       | Shooting            dd    |   70% |   55% |    90% |   88% |
 
 
 ##### Integrate Table 
