@@ -9,8 +9,10 @@ comments: true
 - whatever framework we select, we need to change/Revamp UI/UX in 6 months. So do not worry pick one and move on.
 - There were some initial thoughts on **JQuery** for it simplicity, after looking **Vue.JS and Mobx.JS** youtube Videos there is noway we can DO JQuery. Just for simple CRUD UI/UX Screens you have to CODE each of C R U D operations. Where as with Vue/Mobx/Redux just do CRUD OPERATIONS on DATA STOERE, rest is Taken care ( that is how to exactly change DOM elements) .
 - This way without DATA Store concept, JQuery nolonger survive. It is surviving due to complexities of  Angular/React-Redux etc.. But once  Mobx.jS Vue.JS become widespread ( popular ),  JQuery can not survive.
-+ TOdoMVC github repos
-- [Mobx](https://github.com/mobxjs/mobx-react-todomvc/blob/master/src/stores/TodoStore.js)-- [Redux](https://github.com/reactjs/redux/blob/master/examples/todomvc/src/reducers/todos.js) -- [Vue](https://github.com/tastejs/todomvc/blob/gh-pages/examples/vue/js/app.js)
++ > TOdoMVC github repos : files below are STORES 
+- [Mobx](https://github.com/mobxjs/mobx-react-todomvc/blob/master/src/stores/TodoStore.js) -- ( [creator by](https://www.mendix.com) )
+- [Redux](https://github.com/reactjs/redux/blob/master/examples/todomvc/src/reducers/todos.js) -- ( all React big boys support REDUX )
+- [Vue](https://github.com/tastejs/todomvc/blob/gh-pages/examples/vue/js/app.js) -- ( fans: Laravel PHP webFramework, gitlab )
 
 > **final selection: Mobx** why? Vue.js is simple but too far away from REACT, where as Mobx uses React and only replacing REDUX. In futuere if REDUX get simpler we can Swap out Mobx with REDUX, so 
 
