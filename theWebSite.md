@@ -30,6 +30,8 @@ comments: true
   - [axios][axios] - promise based ; all Redux Project using this one for AJAX requests
   - [superAgent][superAgent] - good Docs , [comparison][ax vs. sA]
   
++ [UX Clean Design](http://whereis-whoishiring-hiring.me/index) - can be re-designed with React Mobx /w 'State Data Store' FIREST approach
+  
   [axios](https://github.com/mzabriskie/axios)
   [superAgent](http://visionmedia.github.io/superagent/#request-basics)
   [ax vs. sA](https://www.sitepoint.com/comparison-javascript-http-libraries/)
