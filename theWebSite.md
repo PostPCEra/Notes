@@ -5,6 +5,12 @@ date: 2012-05-22 16:25:06 -0700
 comments: true
 ---
 
+#### Fremework Selection
+- whatever framework we select, we need to change/Revamp UI/UX in 6 months. So do not worry pick one and move on.
+- There were some initial thoughts on JQuery for it simplicity, after looking Vue.JS and Mobx.JS youtube Videos there is noway we can DO JQuery. Just for simple CRUD UI/UX Screens you have to CODE each of C R U D operations. Where as with Vue/Mobx/Redux just do CRUD OPERATIONS on DATA STOERE, rest is Taken care ( that is how to exactly change DOM elements) .
+- This way without DATA Store concept, JQuery nolonger survive. It is surviving due to complexities of  Angular/React-Redux etc.. But once  Mobx.jS Vue.JS become widespread ( popular ),  JQuery can not survive.
+- Vue.js is simple but too far away from REACT, where as Mobx uses React and only replacing REDUX. In futuere if REDUX get simpler we can Swap out Mobx with REDUX
+
 #### Install & Setup  
 
 | Iten    | Stack Component           |       |       |        |
