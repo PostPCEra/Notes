@@ -23,10 +23,10 @@ comments: true
 - SweatAlert > [Bootbox][Bootbox]
 + A simple library for handling [keyboard shortcuts][keyboard] in Javascript.
 
-> Discovery ( How to find these JS Libraries?) : for **Keyborad** shortcut Libs, when I searech github with 'keyboard' (order by most stars), above Mousetrap lib was found.
+> **Discovery ( How to find these JS Libraries?)** : for **Keyborad** shortcut Libs, when I searech github with 'keyboard' (order by most stars), above Mousetrap lib was found.
 > using [javaScripting.com][javaScripting] website, for same 'keyboard' search showed 'mousetrap' heighest Stars(76), but it also shows related Libs, so this seems better than Github serach for JS Libs
-[javaScripting]: http://www.javascripting.com/search?q=keyboard
 
+[javaScripting]: http://www.javascripting.com/search?q=keyboard
 [SweatAlert]: http://t4t5.github.io/sweetalert/
 [BootBox]: http://bootboxjs.com/examples.html#bb-alert-dialog
 [keyboard]: https://craig.is/killing/mice
