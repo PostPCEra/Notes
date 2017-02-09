@@ -17,10 +17,10 @@ comments: true
 
 ##### Integrate Table 
 
-| Iten    | Stack Component           |                  |       
-|:--------|:--------------------------|:---------------|:------
-| 1       | Bootbox                   | JS Alerts Lib  | [4k github stars][BootBox1] 
-| 2       | PostgreSQL DB             |  1:30 |  2:05 [open in new tab][newtab] 
+| Iten    | Stack Component           |                       
+|:--------|:--------------------------|:---------------
+| 1       | Bootbox                   |  [4k github stars1](http://bootboxjs.com/examples.html){:target="_blank"}  |  [4k github stars2](http://bootboxjs.com/examples.html){:target="_blank"}
+| 2       | PostgreSQL DB             |  [4k github stars33](http://bootboxjs.com/examples.html){:target="_blank"} |  [4k github stars44](http://bootboxjs.com/examples.html){:target="_blank"}
 
 
 [BootBox1]: http://bootboxjs.com/examples.html
