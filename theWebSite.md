@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vivamus porttitor porta tortor"
+title: "Technology Stack for the web site 'Learning By Teaching' "
 date: 2012-05-22 16:25:06 -0700
 comments: true
 ---
@@ -16,6 +16,12 @@ comments: true
 - [MobX tutorial #2 - Computed Values and Nested/Referenced Observables](https://www.youtube.com/watch?v=nYvNqKrl69s){:target="_blank"} - ( Todo Tutorial )
 
 --------------
+
+#### Common Utility JS Libraries for Websites
+- create programmatic [dialog boxes][BootBox] using Bootstrap modals, without having to worry about creating, managing or removing any of the required DOM elements or JS event handlers
+- A simple library for handling [keyboard shortcuts][keyboard] in Javascript.
+[BootBox]: http://bootboxjs.com/examples.html#bb-alert-dialog
+[keyboard]: https://craig.is/killing/mice
 
 #### Install & Setup  
 
