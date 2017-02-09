@@ -21,6 +21,7 @@ comments: true
 #### Common Utility JS Libraries for Websites
 - create programmatic [dialog boxes][BootBox] using Bootstrap modals, without having to worry about creating, managing or removing any of the required DOM elements or JS event handlers
 - A simple library for handling [keyboard shortcuts][keyboard] in Javascript.
+
 [BootBox]: http://bootboxjs.com/examples.html#bb-alert-dialog
 [keyboard]: https://craig.is/killing/mice
 
