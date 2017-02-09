@@ -20,10 +20,11 @@ comments: true
 | Iten    | Stack Component           |                  |       
 |:--------|:--------------------------|:---------------|:------
 | 1       | Bootbox                   | JS Alerts Lib  | [4k github stars][BootBox1] 
-| 2       | PostgreSQL DB             |  1:30 |  2:05 
+| 2       | PostgreSQL DB             |  1:30 |  2:05 [open in new tab][newtab] 
 
 
-[Bootbox](http://bootboxjs.com/examples.html){:target="_blank"}
+[BootBox1]: http://bootboxjs.com/examples.html
+[newtab]: http://bootboxjs.com/examples.html{:target="_blank"}
 
 #### Model Sites  
 - [table generator](http://www.tablesgenerator.com/markdown_tables){:target="_blank"} - very simple bootstrap "Tight" bootstrap menu items  
