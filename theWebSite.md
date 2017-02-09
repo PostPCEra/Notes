@@ -26,6 +26,13 @@ comments: true
 + create programmatic [dialog boxes][SweatAlert] using Bootstrap modals, without having to worry about creating, managing or removing any of the required DOM elements or JS event handlers
 - SweatAlert > [Bootbox][Bootbox]
 + A simple library for handling [keyboard shortcuts][keyboard] in Javascript.
++ Client side (Browser) HTTP Request library 
+  - [axios][axios] - promise based ; all Redux Project using this one for AJAX requests
+  - [superAgent][superAgent] - good Docs , [comparison][ax vs. sA]
+  
+  [axios](https://github.com/mzabriskie/axios)
+  [superAgent](http://visionmedia.github.io/superagent/#request-basics)
+  [ax vs. sA](https://www.sitepoint.com/comparison-javascript-http-libraries/)
 
 > **Discovery ( How to find these JS Libraries?)** : for **Keyborad** shortcut Libs, when I searech github with 'keyboard' (order by most stars), above Mousetrap lib was found.
 > using [javaScripting.com][javaScripting] website, for same 'keyboard' search showed 'mousetrap' heighest Stars(76), but it also shows related Libs, so this seems better than Github serach for JS Libs
