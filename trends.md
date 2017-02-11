@@ -29,6 +29,11 @@
 - Automation & [Command line Tools](https://github.com/exercism/cli) 
 - Networking , WebServers
 
+------------------
+### gitbook points to note
+- [this enspiral looks good get like this](https://handbook.enspiral.com/)
+- [search works well on this long list of Front-end Dev](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/recap.html)
+
 *Jekyll :* [sites & Blogs](https://github.com/jekyll/jekyll/wiki/Sites){target="_blank"}
 Jekyll [Theams](http://jekyllthemes.org/){target="_blank"} - we get our theam from this site  
 *Markdown:* [Docs on Stack](http://stackoverflow.com/documentation/markdown/topics) - [online](http://commonmark.org/help/tutorial/02-emphasis.html){target="_blank"}
