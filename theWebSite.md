@@ -5,7 +5,7 @@ date: 2012-05-22 16:25:06 -0700
 comments: true
 ---
 
-#### Fremework Selection
+#### 1/ Fremework Selection
 - whatever framework we select, we need to change/Revamp UI/UX in 6 months. So do not worry pick one and move on.
 - There were some initial thoughts on **JQuery** for it simplicity, after looking **Vue.JS and Mobx.JS** youtube Videos there is noway we can DO JQuery. Just for simple CRUD UI/UX Screens you have to CODE each of C R U D operations. Where as with Vue/Mobx/Redux just do CRUD OPERATIONS on DATA STOERE, rest is Taken care ( that is how to exactly change DOM elements) .
 - This way without DATA Store concept, JQuery nolonger survive. It is surviving due to complexities of  Angular/React-Redux etc.. But once  Mobx.jS Vue.JS become widespread ( popular ),  JQuery can not survive.
@@ -22,7 +22,7 @@ comments: true
 
 --------------
 
-#### Common Utility JS Libraries for Websites
+#### Common 2/ Utility JS Libraries for Websites
 + create programmatic [dialog boxes][SweatAlert] using Bootstrap modals, without having to worry about creating, managing or removing any of the required DOM elements or JS event handlers
 - SweatAlert > [Bootbox][Bootbox]
 + A simple library for handling [keyboard shortcuts][keyboard] in Javascript.
@@ -46,14 +46,14 @@ comments: true
 
 
 
-#### Install & Setup  
+#### Layout Model - some of the Layout considered 
 
-| Iten    | Stack Component           |       |       |        |
-|:--------|:--------------------------|:------|:------|:-------|
-| 1       | Dnango REST API           | John  | Adam  | Robert |
-| 2       | PostgreSQL DB             |  1:30 |  2:05 |   1:15 |
-| 3       | React Redux Boilerplate   | 15:30 | 14:10 |  15:45 |
-| 4       | Redux coding Styles(Rajarao)|70%  |   55% |    90% |
+| Iten    | Layout        |                        
+|:--------|:--------------------------|:---------------
+| 1       | HTML Ref site             |  [htmlRef site](http://htmlreference.io/element/article/){:target="_blank"}  
+| 2       | TeachApCS                 | site is down, github has file , cloned on Mac 
+| 3       | Exercisim                 | [shows Iteration 1 , 2, 3 ](http://exercism.io/submissions/306ebe1f98ca4e0ab8754d64484eb907){:target="_blank"}  
+| 4       |                  | 
 
 
 ##### Integrate Table 
