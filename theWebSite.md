@@ -54,6 +54,7 @@ comments: true
 | 2       | TeachApCS                 | site is down, github has file , cloned on Mac 
 | 3       | Exercisim                 | [shows Iteration 1 , 2, 3 ](http://exercism.io/submissions/306ebe1f98ca4e0ab8754d64484eb907){:target="_blank"}  
 | 4       |      python Tutor        |  good interactive pyton
+| 5       |      ACE editor        |  we start with Python Tutor editor, but we need ACE Editor for CONTEXT Help as you TYPE
 
 
 ##### Components & code Snippets
