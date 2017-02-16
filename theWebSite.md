@@ -61,7 +61,7 @@ comments: true
 | Iten    | Stack Component           |                       
 |:--------|:--------------------------|:---------------
 | 1       | Bootbox                   |  [4k github stars1](http://bootboxjs.com/examples.html){:target="_blank"}  |  [4k github stars2](http://bootboxjs.com/examples.html){:target="_blank"}
-| 2       | React show/hide           |  [on stackoverlfow](http://stackoverflow.com/questions/36964689/how-to-show-hide-component-on-click-in-react-redux){:target="_blank"} |  this has CodePen Demo
+| 2       | React show/hide           |  [on stackoverlfow](http://stackoverflow.com/questions/36964689/how-to-show-hide-component-on-click-in-react-redux){:target="_blank"} -this has CodePen Demo |   [This solution is good  too](http://www.syntaxsuccess.com/viewarticle/hiding-and-showing-elements-in-react){:target="_blank"}
 
 
 [BootBox1]: http://bootboxjs.com/examples.html
