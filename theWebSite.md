@@ -56,12 +56,12 @@ comments: true
 | 4       |      python Tutor        |  good interactive pyton
 
 
-##### Integrate Table 
+##### Components & code Snippets
 
 | Iten    | Stack Component           |                       
 |:--------|:--------------------------|:---------------
 | 1       | Bootbox                   |  [4k github stars1](http://bootboxjs.com/examples.html){:target="_blank"}  |  [4k github stars2](http://bootboxjs.com/examples.html){:target="_blank"}
-| 2       | PostgreSQL DB             |  [4k github stars33](http://bootboxjs.com/examples.html){:target="_blank"} |  [4k github stars44](http://bootboxjs.com/examples.html){:target="_blank"}
+| 2       | React show/hide           |  [on stackoverlfow](http://stackoverflow.com/questions/36964689/how-to-show-hide-component-on-click-in-react-redux){:target="_blank"} |  this has CodePen Demo
 
 
 [BootBox1]: http://bootboxjs.com/examples.html
