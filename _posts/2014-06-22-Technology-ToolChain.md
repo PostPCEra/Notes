@@ -14,8 +14,10 @@ Some of the Creative Tools, Libraries that make Web applicaiton so ENRICHED.
 
 #### Human Capital development 
 + The Real cost of Technology companies is Employee Salary ( quizlet 50 Total employess , Etsy 700 ). So pay attention to  "Interviewing, Hiring , Team Building"
-+ [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/){:target="_blank"} - 
-+ 
++ [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/){:target="_blank"} - "Problem Decomposition"
+ - Able to break up problem into multiple functions
+ - Ability to come up with **reusable functions/objects that solve the overall problem**
++ [Epic List of Software Interview Questions](http://katemats.com/interview-questions/){:target="_blank"}
 
 #### Broadcast Yourself - Youtube celeb
 + Check FREE Video making and Editing Tools to upload to Youtube like "Hit Film Express" , Paid ones are Adobe Pr Ae ( After Effects)
