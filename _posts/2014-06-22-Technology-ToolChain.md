@@ -12,7 +12,8 @@ Some of the Creative Tools, Libraries that make Web applicaiton so ENRICHED.
 + [React Typist](https://jstejada.github.io/react-typist/){:target="_blank"} - Typing animations with React 
 + 
 
-#### Human Capital development: The Real cost of Technology companies is Employee Salary ( quizlet 50 Total employess , Etsy 700 ). So pay attention to  "Interviewing, Hiring , Team Building"
+#### Human Capital development 
++ The Real cost of Technology companies is Employee Salary ( quizlet 50 Total employess , Etsy 700 ). So pay attention to  "Interviewing, Hiring , Team Building"
 + [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/){:target="_blank"} - 
 + 
 
