@@ -54,7 +54,7 @@ comments: true
 | 2       | TeachApCS                 | site is down, github has file , cloned on Mac 
 | 3       | Exercisim                 | [shows Iteration 1 , 2, 3 ](http://exercism.io/submissions/306ebe1f98ca4e0ab8754d64484eb907){:target="_blank"}  
 | 4       |      python Tutor        |  good interactive pyton
-| 5       |      ACE editor        |  we start with Python Tutor editor, but we need ACE Editor for CONTEXT Help as you TYPE
+| 5       |      ACE editor        |  we start with Python Tutor editor, but we need ACE Editor for Autocomplete  as you TYPE
 
 
 ##### Components & code Snippets
@@ -63,6 +63,8 @@ comments: true
 |:--------|:--------------------------|:---------------
 | 1       | Bootbox                   |  [4k github stars1](http://bootboxjs.com/examples.html){:target="_blank"}  |  [4k github stars2](http://bootboxjs.com/examples.html){:target="_blank"}
 | 2       | React show/hide           |  [on stackoverlfow](http://stackoverflow.com/questions/36964689/how-to-show-hide-component-on-click-in-react-redux){:target="_blank"} -this has CodePen Demo |   [This solution is good  too](http://www.syntaxsuccess.com/viewarticle/hiding-and-showing-elements-in-react){:target="_blank"}
+| 3       | Ace editor Diff Patch    |  [4k github stars1](http://ourcodeworld.com/articles/read/306/how-to-implement-a-diff-and-merge-tool-in-ace-editor){:target="_blank"}  | 
+
 
 
 [BootBox1]: http://bootboxjs.com/examples.html
