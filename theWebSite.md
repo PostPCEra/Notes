@@ -69,8 +69,7 @@ comments: true
 | 1       | Bootbox                   |  [4k github stars1](http://bootboxjs.com/examples.html){:target="_blank"}  |  [4k github stars2](http://bootboxjs.com/examples.html){:target="_blank"}
 | 2       | React show/hide           |  [on stackoverlfow](http://stackoverflow.com/questions/36964689/how-to-show-hide-component-on-click-in-react-redux){:target="_blank"} -this has CodePen Demo |   [This solution is good  too](http://www.syntaxsuccess.com/viewarticle/hiding-and-showing-elements-in-react){:target="_blank"}
 | 3       | Ace editor Diff Patch    |  [4k github stars1](http://ourcodeworld.com/articles/read/306/how-to-implement-a-diff-and-merge-tool-in-ace-editor){:target="_blank"}  | 
-
-
+| 4       | Snappysnippet             | [here](https://github.com/kdzwinel/SnappySnippet)
 
 [BootBox1]: http://bootboxjs.com/examples.html
 [newtab]: http://bootboxjs.com/examples.html{:target="_blank"}
