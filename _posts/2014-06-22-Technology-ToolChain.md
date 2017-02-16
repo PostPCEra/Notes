@@ -8,9 +8,16 @@ comments: true
 ## Technology Tool Chain
 Some of the Creative Tools, Libraries that make Web applicaiton so ENRICHED.
 
-#### Utilities
-+ [React Typist](https://jstejada.github.io/react-typist/){:target="_blank"} - Typing animations with React 
-+ 
+#### Discovery - where to Serach for TOOLS
++ [Github](https://github.com/){:target="_blank"} - Typing animations with React 
++ [React Rocks]
++ [JavaScripting.com]
++ [Awesome Lists for each category on github]
+
+#### Learning - How to Learn about the TOOLS, How to use effectively
++ [You tube] - a video better than 100 Blog posts
++ [ Blog Posts] -
++ [ SlideShare] -
 
 #### Human Capital development 
 + The Real cost of Technology companies is Employee Salary ( quizlet 50 Total employess , Etsy 700 ). So pay attention to  "Interviewing, Hiring , Team Building"
@@ -18,6 +25,10 @@ Some of the Creative Tools, Libraries that make Web applicaiton so ENRICHED.
  - Able to break up problem into multiple functions
  - Ability to come up with **reusable functions/objects that solve the overall problem**
 + [Epic List of Software Interview Questions](http://katemats.com/interview-questions/){:target="_blank"}
+
+#### Utilities
++ [React Typist](https://jstejada.github.io/react-typist/){:target="_blank"} - Typing animations with React 
++ 
 
 #### Broadcast Yourself - Youtube celeb
 + Check FREE Video making and Editing Tools to upload to Youtube like "Hit Film Express" , Paid ones are Adobe Pr Ae ( After Effects)
