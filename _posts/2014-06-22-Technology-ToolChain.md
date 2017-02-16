@@ -25,7 +25,7 @@ Some of the Creative Tools, Libraries that make Web applicaiton so ENRICHED.
 + [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/){:target="_blank"} - "Problem Decomposition"
 1. [Decomposition (application of divide and conquer)](http://stackoverflow.com/questions/23413242/what-are-the-differences-between-abstraction-and-decomposition){:target="_blank"}: It is a technique of classifying, structuring and grouping complex elements in order to end up with more ATOMIC ones.
 2. [Decomposition (aka factoring)](https://en.wikipedia.org/wiki/Decomposition_(computer_science)){:target="_blank"} is breaking a complex PROBLEM or SYSTEM into PARTS that are easier to conceive, understand, program, and maintain.
-  1. algorithmic decomposition, Object-oriented decomposition ( in general Functional decomposition )
+3. algorithmic decomposition, Object-oriented decomposition ( in general Functional decomposition )
   
 + [Epic List of Software Interview Questions](http://katemats.com/interview-questions/){:target="_blank"}
 
