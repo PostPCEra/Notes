@@ -8,13 +8,13 @@ comments: true
 ## Technology Tool Chain
 Some of the Creative Tools, Libraries that make Web applicaiton so ENRICHED.
 
-#### Discovery - where to Serach for TOOLS
+#### Discovery - where to Serach for Libraries, Componets & TOOLS
 + [Github](https://github.com/){:target="_blank"} - Typing animations with React 
 + [React Rocks]
 + [JavaScripting.com]
 + [Awesome Lists for each category on github]
 
-#### Learning - How to Learn about the TOOLS, How to use effectively
+#### Learning - How to Learn about the Libraries, Componets & TOOLS, How to use effectively
 + [You tube] - a video better than 100 Blog posts
 + [Stackoverflow]
 + [ Blog Posts] -
