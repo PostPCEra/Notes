@@ -7,3 +7,17 @@
 + python3 -m venv "name-of-virtualenv"  # this create 
 + source "path-to-the-virtualenv"/bin/active  #To active the virtualenv
 + deactive  #  then to deactive it, while you are in the venv dir
++
++ if installing other packages like PyTest , go insde dir where Virtual Env is creaed then do pip install. So this way 'PyTest works from VSCode itself'
++ sudo pip  install pytest
+
+### Learing by Doing first pages 
++ How to introduce to user next to 'Live coding Environment'
++ content & UX samples : Rubymonk , [Programirz](https://www.programiz.com/python-programming)
++ Audio files and  using 'moving INtro JS lib' 
+
+### Website CORE PARTS
++ OPT is uising JQuery , so we use same JQuery
++ next to Live code #
+
+# T { }
