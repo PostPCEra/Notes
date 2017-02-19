@@ -19,5 +19,8 @@
 ### Website CORE PARTS
 + OPT is uising JQuery , so we use same JQuery
 + next to Live code #
++ Intro JS makes  with Audio makes it so easy to get a point Across table. apply to most the IT infrasture fix
 
-# T { }
+# Tools
++ [Intro JS]( http://introjs.com) A better way for new feature introduction and step-by-step users guide for your website and project.
++ IBM watson Audio
