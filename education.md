@@ -16,7 +16,9 @@
 + Psychologist K. Anders Ericsson, [a pioneer in researching deliberate practice](https://en.wikipedia.org/wiki/Practice_(learning_method))
 
 > **People believe** that because expert performance is qualitatively different from a normal performance the expert performer must be **endowed with characteristics** qualitatively different from those of normal adults. 
+
 > we argue that the **differences between expert performers and normal** adults reflect **a life-long period of deliberate effort to improve** performance **in a specific domain**.[3]
+
 > An expert **breaks down the skills** that are required to be expert and focuses on improving those skill **chunks** during practice or day-to-day activities, often paired with **immediate coaching feedback**. Another important feature of deliberate practice lies in continually **practicing a skill at more challenging levels** with the intention of mastering it.
 
 #### What is Deliberate Practice?
