@@ -2,7 +2,23 @@
 #### Pedagody (noun)
 > the method and practice of teaching, especially as an academic subject or theoretical concept.
 
-## All about Learning by Teaching
+## 1. Thesis about Learning ( Online or Offline )
+---
+
+#### Thesis
++ Learning by Teaching
++ Mastery Learn
++ Delibarate practice of patterns
++ 1000 Hour Rule
+
+#### Practice & Delibarate practice
++ **Practice** is the act of rehearsing a behavior over and over, or engaging in an activity again and again, for the purpose of improving or mastering it, as in the phrase "practice makes perfect". Sports teams practice to prepare for actual games. Playing a musical instrument well takes a lot of practice.
++ Psychologist K. Anders Ericsson, [a pioneer in researching deliberate practice](https://en.wikipedia.org/wiki/Practice_(learning_method))
+> **People believe** that because expert performance is qualitatively different from a normal performance the expert performer must be **endowed with characteristics** qualitatively different from those of normal adults. 
+we argue that the **differences between expert performers and normal** adults reflect **a life-long period of deliberate effort to improve** performance **in a specific domain**.[3]
+> An expert **breaks down the skills** that are required to be expert and focuses on improving those skill **chunks** during practice or day-to-day activities, often paired with **immediate coaching feedback**. Another important feature of deliberate practice lies in continually **practicing a skill at more challenging levels** with the intention of mastering it.
+
+## 2. All about Learning by Teaching
 ---
 
 #### Learning by Teaching : [German: Lernen durch Lehren, short LdL](https://en.wikipedia.org/wiki/Learning_by_teaching){:target="_blank"}  
