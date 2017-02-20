@@ -28,6 +28,15 @@
 
 > Once you master this tiny behavior, you can move on to **practicing the next small task** that will take 1 to 3 sessions to master. **Repeat this process for 10,000 hours. That is deliberate practice**.
 
+### 3 Questions for More Deliberate Practice
++ From what I can tell, the experts who embrace the idea of deliberate practice continually ask themselves three questions…
+
+> **1. Do I understand the fundamentals?** No matter how advanced they become, experts never lose sight of the fundamentals. In many ways, they are advanced for that very reason: they understand the fundamentals better than anyone else.
+
+> **2. Am I working on the next step?** There are a lot of smart people waste time working on skills that don't build upon each other. Experts **build knowledge and skills that are cumulative.**
+
+> **3. What am I missing?** Experts are constantly asking themselves, “What am I missing? What new information is out there? What can I learn? How can I grow?
+
 ## 2. All about Learning by Teaching
 ---
 
