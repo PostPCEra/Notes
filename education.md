@@ -14,9 +14,17 @@
 #### Practice & Delibarate practice
 + **Practice** is the act of rehearsing a behavior over and over, or engaging in an activity again and again, for the purpose of improving or mastering it, as in the phrase "practice makes perfect". Sports teams practice to prepare for actual games. Playing a musical instrument well takes a lot of practice.
 + Psychologist K. Anders Ericsson, [a pioneer in researching deliberate practice](https://en.wikipedia.org/wiki/Practice_(learning_method))
+
 > **People believe** that because expert performance is qualitatively different from a normal performance the expert performer must be **endowed with characteristics** qualitatively different from those of normal adults. 
-we argue that the **differences between expert performers and normal** adults reflect **a life-long period of deliberate effort to improve** performance **in a specific domain**.[3]
+> we argue that the **differences between expert performers and normal** adults reflect **a life-long period of deliberate effort to improve** performance **in a specific domain**.[3]
 > An expert **breaks down the skills** that are required to be expert and focuses on improving those skill **chunks** during practice or day-to-day activities, often paired with **immediate coaching feedback**. Another important feature of deliberate practice lies in continually **practicing a skill at more challenging levels** with the intention of mastering it.
+
+#### What is Deliberate Practice?
++ During a 2012 talk, **programmer and author Kathy Sierra** explained deliberate practice with a very simple and elegant answer. Kathy is [Author of Head First Series](https://en.wikipedia.org/wiki/Kathy_Sierra). Head First Java in 2003, **takes an unorthodox, visually intensive** approach to the **process of teaching programming.** 
+
+> Deliberate practice is when you **work on a skill that requires 1 to 3 practice sessions to master**. If it **takes longer than that**, then you are working on something **that is too complex**.
+
+> Once you master this tiny behavior, you can move on to **practicing the next small task** that will take 1 to 3 sessions to master. **Repeat this process for 10,000 hours. That is deliberate practice**.
 
 ## 2. All about Learning by Teaching
 ---
