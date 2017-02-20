@@ -2,7 +2,7 @@
 #### Pedagody (noun)
 > the method and practice of teaching, especially as an academic subject or theoretical concept.
 
-## 1. Thesis about Learning ( Online or Offline )
+## I. Thesis about Learning ( Online or Offline )
 ---
 
 #### Thesis
@@ -37,7 +37,7 @@
 
 > **3. What am I missing?** Experts are constantly asking themselves, “What am I missing? What new information is out there? What can I learn? How can I grow?
 
-## 2. All about Learning by Teaching
+## II. All about Learning by Teaching
 ---
 
 #### Learning by Teaching : [German: Lernen durch Lehren, short LdL](https://en.wikipedia.org/wiki/Learning_by_teaching){:target="_blank"}  
