@@ -29,15 +29,18 @@ comments: false
 
 ### Content
 + Variables
+ + any name   a, first, lastname, toyname , ...
+ + variable store value :  numbers , strings,  Boolean 
+ + Boolean : show Visually step by how it changes values : oddday = True ,  oddday = not(oddday)  
+ + experssion :  1 + 5 , 6 - 2 , 43 * 5 , 20 / 5 ,  a + 5 ,  b - 2
 + Branching ( Control flow)
- + IF startments
-+ Looping
+ + IF startments ( should we take user input at this time? to make it interesting to the user )
  + problem 1: Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
  + problem 2: show balance and Withdraw each day
  + problem 3 : you have $100 in bank, withdraw $30 each day
  + 
  + problme 4: $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
- + problme 5: $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw [ use boolean withdraw20 = not (withdraw20) ]
+ + problme 5: $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw 
  
 ``` 
        if oddday:
@@ -45,9 +48,16 @@ comments: false
         else:
           amt = 30
           
-        oddday = not (oddday)
+        oddday = not (oddday) # keep blank lines you know the logical grouping , easy on your Brain , said so Python PEP20
 ```
-+ 
+### Progamming Fundamental Concepts ( building blocks )
+1. First-order functions ( Atomic functions )
+ + finding sum of a LIST, finding Largest element in a List 
+2. Modeliing 
+ + In programming nobody gives a problem like there is a List find largest Value,  they give a problem such as
+ + 
+3. De-compostion ( what is compose? like in Compose a Story: take multiple parts and combine them into ONE )
+ + braking problem in to atomic Units and connect them
 
 -------------------------------
 ### Patterns
