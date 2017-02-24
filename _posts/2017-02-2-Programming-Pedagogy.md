@@ -19,13 +19,18 @@ comments: false
 ### Higher-order functions
 + Map
 
-### Programming Concepts
+### Basic Concepts of any Programming Language 
 + Variables
-+ Branching ( Control flow)
- + It is calling Branching coz, it is Branching of a Tree ( or How you Control the Flow )
-+ Looping
- + never start with FOR loop, they get spoiled , always do couple of sessions with WHILE only
-+ 
++ Control flow
+ + Selection ( Branching), Iteration (Looping)
+  + It is calling Branching coz, it is Branching of a Tree ( or How you Control the Flow )
+  + never start with FOR loop, they get spoiled , always do couple of sessions with WHILE only
++ Syntax
++ Functions
++ Data Structures 
+
+> [Note 1](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/) 
+> [Python here](https://www.programiz.com/python-programming) -  File Handing, Objects & Classes may come under PART 2 of Programming Language, while above Part 1 is BASICS
 
 ### Content
 + Variables
@@ -35,6 +40,7 @@ comments: false
  + experssion :  1 + 5 , 6 - 2 , 43 * 5 , 20 / 5 ,  a + 5 ,  b - 2
 + Branching ( Control flow)
  + IF startments ( should we take user input at this time? to make it interesting to the user )
+ + Iteration ( Looping )
  + problem 1: Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
  + problem 2: show balance and Withdraw each day
  + problem 3 : you have $100 in bank, withdraw $30 each day
