@@ -62,7 +62,8 @@ comments: false
  +
 4. Modelling Complex example:
  + You are the first person standing in a line for a Concert Tickets. You bought 2 tickets and your friend just called he won't be able to join you for the concert. Now you have one extra ticket to sell to somebody ( there are 100s of people in line), you thought for a  second and decided you will sell that ticket to a person who is wearing same colour shirt (top) as yours starting from LAST person of the Line.
- + write a function to calculate the Distance between both of you 
+ + write a function to calculate the Distance (how many people are in) between both of you 
+ + Concert Manager came to know your creative way of giving ticket and impressed with your method. To appreciate you, manager announced he follows the same method as yours, but gives two tickets FREE to the Fartherest apart two people wearing same color shirt (top) in the line. Write a program to find that distance ( bonus : find those 2 lucky people, say person 5 and person 86 etc.. ) 
 
 -------------------------------
 ### Patterns
