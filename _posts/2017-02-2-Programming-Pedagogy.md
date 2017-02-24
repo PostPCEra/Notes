@@ -55,9 +55,14 @@ comments: false
  + finding sum of a LIST, finding Largest element in a List 
 2. Modeliing 
  + In programming nobody gives a problem like there is a List find largest Value,  they give a problem such as
- + 
+  + A new shop near you is selling n paintings.You have k < n friends and you wouldlike to buy each of your friends a painting from the shop. Return the minimal amountof money you will need to spend.
+  + you need to comeup with a STRUCTURE to mimic (Model) the Problem , this process is called Modelling.
 3. De-compostion ( what is compose? like in Compose a Story: take multiple parts and combine them into ONE )
  + braking problem in to atomic Units and connect them
+ +
+4. Modelling Complex example:
+ + You are the first person standing in a line for a Concert Tickets. You bought 2 tickets and your friend just called he won't be able to join you for the concert. Now you have one extra ticket to sell to somebody ( there are 100s of people in line), you thought for a  second and decided you will sell that ticket to a person who is wearing same colour shirt (top) as yours starting from LAST person of the Line.
+ + write a function to calculate the Distance between both of you 
 
 -------------------------------
 ### Patterns
