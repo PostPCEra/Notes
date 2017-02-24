@@ -8,17 +8,18 @@ The foundation of the first shift is the sublime power of choice and individual 
 
 ## Shift 1: The Power of Choice and individual responsibility
 The following are the core components of your mental model after you’ve experienced the first shift:
-1.1 You are responsible
-1.2 Every choice has a cost and consequence
+
++ 1.1 You are responsible
++ 1.2 Every choice has a cost and consequence
 “Free-will” doesn’t exist.We control our actions, but the consequences that flow from those actions are controlled by principles
 
-1.3 Success (and happiness) is a choice
++ 1.3 Success (and happiness) is a choice
 Success, health, and happiness are all consequences. They are by-products. They are effects, not causes.
 
 You can’t control the effects; principles control these. However, you can control the causes of these things, which are your behaviors. Negative environmental factors? Change them
 
 - confidence is a direct reflection of past performance.
-1.4 Momentum is essential 
++ 1.4 Momentum is essential 
 Finally, people who have experienced this first mental shift really care about momentum. They’ve worked hard to develop their momentum and know what it feels like to not have momentum.
 
 Being without momentum is rough. It’s how most people live their lives. And without momentum, results are minimal, even with lots of effort.
