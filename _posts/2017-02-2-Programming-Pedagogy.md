@@ -38,7 +38,15 @@ comments: false
  + 
  + problme 4: $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
  + problme 5: $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw [ use boolean withdraw20 = not (withdraw20) ]
-  +  if withdraw20 
+ 
+``` 
+       if withdraw20:
+          amt = 20
+        else:
+          amt = 30
+          
+        withdraw20 = not (withdraw20)
+```
 + 
 
 -------------------------------
