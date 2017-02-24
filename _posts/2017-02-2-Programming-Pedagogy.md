@@ -1,11 +1,47 @@
- ---
+---
 layout: post
 title: "PyTest sample for Gitu program"
 date: 2017-02-24 15:25:06 -0800
 comments: false
 ---
+
+#### Pedagody (noun)
+
+> the method and practice of teaching, especially as an academic subject or theoretical concept.
+
 ## Programming Pedagogy
 
+### First-order functions
++ Sum
++ Max
++ Min
+
+### Higher-order functions
++ Map
+
+### Programming Concepts
++ Variables
++ Branching ( Control flow)
+ + It is calling Branching coz, it is Branching of a Tree ( or How you Control the Flow )
++ Looping
+ + never start with FOR loop, they get spoiled , always do couple of sessions with WHILE only
++ 
+
+### Content
++ Variables
++ Branching ( Control flow)
+ + IF startments
++ Looping
+ + problem 1: Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
+ + problem 2: show balance and Withdraw each day
+ + problem 3 : you have $100 in bank, withdraw $30 each day
+ + 
+ + problme 4: $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
+ + problme 5: $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw [ use boolean withdraw20 = not (withdraw20) ]
+  +  if withdraw20 
++ 
+
+-------------------------------
 ### Patterns
 + **Accumulation**
 + **Keep One**
