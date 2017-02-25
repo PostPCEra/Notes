@@ -51,7 +51,7 @@ comments: false
 ### III. Content & Tutorials : 
 + [Good Content Explanation here](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/){:target="_blank"}
 + [ good Coding Examples](https://www.programiz.com/python-programming/examples){:target="_blank"} in programirz
-+ see also Amazon Python books
++ see also [Amazon Python books](https://www.amazon.com/s/ref=nb_sb_ss_i_2_6?url=search-alias%3Dstripbooks&field-keywords=python+programming&sprefix=python%2Cstripbooks%2C193&crid=HO5P6724QNOL){:target="_blank"}
 
 + **1. Variables**
  + any name   a, first, lastname, toyname , ...
