@@ -29,7 +29,8 @@ comments: false
 
 > [Python here](https://www.programiz.com/python-programming) -  File Handing, Objects & Classes may come under PART 2 of Programming Language, while above Part 1 is BASICS
 
-> Control statements ![Control statements](http://edusagar.com/assets/img/control-flow.gif, "")
+> Control statements 
+![Control statements](http://edusagar.com/assets/img/control-flow.gif, "asr")
 
 
 ###  II. Fundamental Concepts of Progamming ( building blocks )
