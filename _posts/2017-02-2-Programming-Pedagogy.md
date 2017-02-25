@@ -48,7 +48,11 @@ comments: false
  + write a function to calculate the Distance (how many people are in) between both of you 
  + Concert Manager came to know your creative way of giving ticket and impressed with your method. To appreciate you, manager announced he follows the same method as yours, but gives two tickets FREE to the Fartherest apart two people wearing same color shirt (top) in the line. Write a program to find that distance ( bonus : find those 2 lucky people, say person 5 and person 86 etc.. ) 
 
-### III. Content & Tutorials : [Good Explanation here](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/){:target="_blank"}
+### III. Content & Tutorials : 
++ [Good Content Explanation here](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/){:target="_blank"}
++ [ good Coding Examples](https://www.programiz.com/python-programming/examples){:target="_blank"} in programirz
++ see also Amazon Python books
+
 + **1. Variables**
  + any name   a, first, lastname, toyname , ...
  + variable store value :  numbers , strings,  Boolean 
