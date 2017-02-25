@@ -18,7 +18,7 @@ comments: false
 ### I. Basic Concepts of any Programming Language 
 + Variables
 + Control flow
- + Selection ( Branching), Iteration (Looping)
+  + Selection ( Branching), Iteration (Looping)
   + It is calling Branching coz, it is Branching of a Tree ( or How you Control the Flow )
   + never start with FOR loop, they get spoiled , always do couple of sessions with WHILE only
 + Syntax
