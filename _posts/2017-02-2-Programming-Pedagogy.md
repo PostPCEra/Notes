@@ -25,11 +25,11 @@ comments: false
 + Functions
 + Data Structures 
 
-> [Note 1](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/) - Tools as said here may not be part of BASIC Concepts
+> [Note 1](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/){:target="_blank"} - Tools as said here may not be part of BASIC Concepts
 
-> [Python here](https://www.programiz.com/python-programming) -  File Handing, Objects & Classes may come under PART 2 of Programming Language, while above Part 1 is BASICS
+> [Python here](https://www.programiz.com/python-programming){:target="_blank"} -  File Handing, Objects & Classes may come under PART 2 of Programming Language, while above Part 1 is BASICS
 
-> [Control statements gif](http://edusagar.com/assets/img/control-flow.gif)
+> [Control statements gif](http://edusagar.com/assets/img/control-flow.gif){:target="_blank"}
 
 
 ###  II. Fundamental Concepts of Progamming ( building blocks )
@@ -48,7 +48,7 @@ comments: false
  + write a function to calculate the Distance (how many people are in) between both of you 
  + Concert Manager came to know your creative way of giving ticket and impressed with your method. To appreciate you, manager announced he follows the same method as yours, but gives two tickets FREE to the Fartherest apart two people wearing same color shirt (top) in the line. Write a program to find that distance ( bonus : find those 2 lucky people, say person 5 and person 86 etc.. ) 
 
-### III. Content & Tutorials
+### III. Content & Tutorials : [Good Explanation here](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/){:target="_blank"}
 + Variables
  + any name   a, first, lastname, toyname , ...
  + variable store value :  numbers , strings,  Boolean 
