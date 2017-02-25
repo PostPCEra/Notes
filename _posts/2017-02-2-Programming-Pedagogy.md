@@ -53,16 +53,18 @@ comments: false
  + any name   a, first, lastname, toyname , ...
  + variable store value :  numbers , strings,  Boolean 
  + Boolean : show Visually step by how it changes values : oddday = True ,  oddday = not(oddday)  
- + experssion :  1 + 5 , 6 - 2 , 43 * 5 , 20 / 5 ,  a + 5 ,  b - 2
+ + **experssion** :  1 + 5 , 6 - 2 , 43 * 5 , 20 / 5 ,  a + 5 ,  b - 2
+  + Math expression: Numbers, symbols and operators (such as + and ×) grouped together that show the value of something. [2×3 , x + 7 are expressions]( http://www.mathsisfun.com/definitions/expression.html){:target="_blank"}
+  - 
 + Branching ( Control flow)
  + IF startments ( should we take user input at this time? to make it interesting to the user )
  + Iteration ( Looping )
- + problem 1: Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
- + problem 2: show balance and Withdraw each day
- + problem 3 : you have $100 in bank, withdraw $30 each day
- + 
- + problme 4: $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
- + problme 5: $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw 
+   + problem 1: Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
+   + problem 2: show balance and Withdraw each day
+   + problem 3 : you have $100 in bank, withdraw $30 each day
+   + 
+   + problme 4: $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
+   + problme 5: $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw 
  
 ``` 
        if oddday:
