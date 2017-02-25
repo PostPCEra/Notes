@@ -55,8 +55,8 @@ comments: false
  + Boolean : show Visually step by how it changes values : oddday = True ,  oddday = not(oddday)  
  + **experssion** :  1 + 5 , 6 - 2 , 43 * 5 , 20 / 5 ,  a + 5 ,  b - 2
     + Math expression: Numbers, symbols and operators (such as + and ×) grouped together that show the value of something. [2×3 , x + 7 are expressions]( http://www.mathsisfun.com/definitions/expression.html){:target="_blank"}
- + 
- + **2. IF startments**
+ 
++ **2. IF startments**
  + ( should we take user input at this time? to make it interesting to the user )
  + give good example , like temparate input and print a statement
  
