@@ -19,8 +19,8 @@ comments: false
 + Variables
 + Control flow
   + Selection ( Branching), Iteration (Looping)
-  + It is calling Branching coz, it is Branching of a Tree ( or How you Control the Flow )
-  + never start with FOR loop, they get spoiled , always do couple of sessions with WHILE only
+    + It is calling Branching coz, it is Branching of a Tree ( or How you Control the Flow )
+    + never start with FOR loop, they get spoiled , always do couple of sessions with WHILE only
 + Syntax
 + Functions
 + Data Structures 
@@ -49,14 +49,14 @@ comments: false
  + Concert Manager came to know your creative way of giving ticket and impressed with your method. To appreciate you, manager announced he follows the same method as yours, but gives two tickets FREE to the Fartherest apart two people wearing same color shirt (top) in the line. Write a program to find that distance ( bonus : find those 2 lucky people, say person 5 and person 86 etc.. ) 
 
 ### III. Content & Tutorials : [Good Explanation here](https://howtoprogramwithjava.com/programming-101-the-5-basic-concepts-of-any-programming-language/){:target="_blank"}
-+ Variables
++ #### Variables
  + any name   a, first, lastname, toyname , ...
  + variable store value :  numbers , strings,  Boolean 
  + Boolean : show Visually step by how it changes values : oddday = True ,  oddday = not(oddday)  
  + **experssion** :  1 + 5 , 6 - 2 , 43 * 5 , 20 / 5 ,  a + 5 ,  b - 2
   + Math expression: Numbers, symbols and operators (such as + and ×) grouped together that show the value of something. [2×3 , x + 7 are expressions]( http://www.mathsisfun.com/definitions/expression.html){:target="_blank"}
   - 
-+ Branching ( Control flow)
++ #### Branching ( Control flow)
  + IF startments ( should we take user input at this time? to make it interesting to the user )
  + Iteration ( Looping )
    + problem 1: Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
