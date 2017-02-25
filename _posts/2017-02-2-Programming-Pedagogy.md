@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PyTest sample for Gitu program"
+title: "Programming-Pedagogy"
 date: 2017-02-24 15:25:06 -0800
 comments: false
 ---
