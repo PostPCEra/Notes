@@ -98,12 +98,12 @@ comments: false
       
 ```
 
- + problem 2.1 : Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
- + problem 2.2 : show balance and Withdraw each day
- + problem 2.3 : you have $100 in bank, withdraw $30 each day
+ + P 2.1 : Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
+ + P 2.2 : show balance and Withdraw each day
+ + P 2.3 : you have $100 in bank, withdraw $30 each day
  + 
- + problme 2.4 : $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
- + problme 2.5 : $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw 
+ + P 2.4 : $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
+ + P 2.5 : $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw 
  
 ``` 
        if oddday:
@@ -115,8 +115,8 @@ comments: false
 ```
 
 + when coming to this First-order functions such as MIN , MAX etc.. we need to INTRODUCE Functions
-+ problem 3.1 : find the larest number in a LIST ( max number )
-+ problem 3.2 : find the samllest number in a LIST ( min number )
++ P 3.1 : find the larest number in a LIST ( max number )
++ P 3.2 : find the samllest number in a LIST ( min number )
 
 ``` 
    def find_max(lst):
@@ -125,6 +125,16 @@ comments: false
       largest = lst[0]
       
       while ( index <= length ) :
+        if lst[index] > largest:
+          largest = lst[index]
+         
+       return largest
+       
+   def find_max(lst):  # no length variable here , index starts at Last and comes down to  0
+      index = len(lst)
+      largest = lst[0]
+      
+      while (index >= 0 ) :
         if lst[index] > largest:
           largest = lst[index]
          
