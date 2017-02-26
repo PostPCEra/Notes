@@ -64,7 +64,13 @@ comments: false
  + ( should we take user input at this time? to make it interesting to the user )
  + give good example , like temparate input and print a statement
  
-+ **3. Iteration ( Looping )**
++ **3. Booleans **
+ + look at CodingBat examples
+ 
++ **4. Strings **
+ + look at CodingBat examples
+ 
++ **5. Iteration ( Looping )**
  + All the trouble is with KIDS not understanding LOOPS, with out Mastery of Loops they CAN NOT solve any problmes, as we saw in the case of GITU
  + p 1.0 : print the number 1 to 10
  + p 1.2 : print all odd numbers between 1 and 10 that is 1, 3,5,7,9 ( num = num + 2 inside loop )
@@ -117,12 +123,14 @@ comments: false
 + when coming to this First-order functions such as MIN , MAX etc.. we need to INTRODUCE Functions
 + P 3.1 : find the larest number in a LIST ( max number )
 + P 3.2 : find the samllest number in a LIST ( min number )
++ P 3.2 : find the Index of largets number in a LIST
 
 ``` 
    def find_max(lst):
+   
+      largest = lst[0]  # let us assume largest is First element
       index = 0
       length = len(lst)
-      largest = lst[0]
       
       while ( index <= length ) :
         if lst[index] > largest:
@@ -130,15 +138,30 @@ comments: false
          
        return largest
        
+       
    def find_max(lst):  # no length variable here , index starts at Last and comes down to  0
-      index = len(lst)
-      largest = lst[0]
+      largest = lst[0]  # let us assume largest is First element
+      index = len(lst)  # use variable 'index' only , so it is clear, no 'ind' either. Repetaion makes KIDS remember 'index' , do not use 'length' etc..
       
       while (index >= 0 ) :
         if lst[index] > largest:
           largest = lst[index]
          
        return largest
+       
+       
+   def find_max_index(lst):  # no length variable here , index starts at Last and comes down to  0
+      largest = lst[0]  # let us assume largest is First element
+      largest_ind = 0
+      index = len(lst)
+      
+      while (index >= 0 ) :
+        if lst[index] > largest:
+          largest = lst[index]
+          largest_ind = index
+         
+       return larest_ind
+       
 ```
 
 ### First-order functions
