@@ -65,6 +65,30 @@ comments: false
  + give good example , like temparate input and print a statement
  
 + **3. Iteration ( Looping )**
+ + All the trouble is with KIDS not understanding LOOPS, with out Mastery of Loops they CAN NOT solve any problmes, as we saw in the case of GITU
+ + p0 : print the number 1 to 10
+ + p0.2 : print all odd numbers between 1 and 10 that is 1, 3,5,7,9 ( num = num + 2 inside loop )
+ + p0.3 : print all EVEN numbers between 1 and 10 that is 2,4,6,8,10 
+ + p0.3 : print numbers 5 to 1 ( ex. 5,4,3,2,1 ) 
+ 
+``` 
+    num = 1
+    while ( num <= 10 ):
+      print (num)
+      num = num + 2
+      
+    num = 2
+    while ( num <= 10 ):
+      print (num)
+      num = num + 2
+      
+    num = 5
+    while ( num >= 1 ):
+      print (num)
+      num = num - 1
+      
+```
+
  + problem 1: Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
  + problem 2: show balance and Withdraw each day
  + problem 3 : you have $100 in bank, withdraw $30 each day
