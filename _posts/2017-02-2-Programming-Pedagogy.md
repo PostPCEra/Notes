@@ -66,10 +66,13 @@ comments: false
  
 + **3. Iteration ( Looping )**
  + All the trouble is with KIDS not understanding LOOPS, with out Mastery of Loops they CAN NOT solve any problmes, as we saw in the case of GITU
- + p0 : print the number 1 to 10
- + p0.2 : print all odd numbers between 1 and 10 that is 1, 3,5,7,9 ( num = num + 2 inside loop )
- + p0.3 : print all EVEN numbers between 1 and 10 that is 2,4,6,8,10 
- + p0.3 : print numbers 5 to 1 ( ex. 5,4,3,2,1 ) 
+ + p 1.0 : print the number 1 to 10
+ + p 1.2 : print all odd numbers between 1 and 10 that is 1, 3,5,7,9 ( num = num + 2 inside loop )
+ + p 1.3 : print all EVEN numbers between 1 and 10 that is 2,4,6,8,10 
+ + p 1.4 : print all numbers which are MULTIPLE of 3 between 1 and 30 that is 3,6,9 ..  ( num = num +3 )
+ + p 1.5 : print numbers 5 to 1 ( ex. 5,4,3,2,1 ) 
+ +
+ + p 1.6 : print pairs such as  1 9, 2 8 , 3 7,  ...  9 1
  
 ``` 
     num = 1
@@ -87,14 +90,20 @@ comments: false
       print (num)
       num = num - 1
       
+    num = 1
+    while ( num <= 9 ):
+      second_num = 10 - num
+      print (num, second_num)
+      num = num + 1
+      
 ```
 
- + problem 1: Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
- + problem 2: show balance and Withdraw each day
- + problem 3 : you have $100 in bank, withdraw $30 each day
+ + problem 2.1 : Say you have $100 in bank you are withdrawing $25 each day, show the probgram to show each Withdraw
+ + problem 2.2 : show balance and Withdraw each day
+ + problem 2.3 : you have $100 in bank, withdraw $30 each day
  + 
- + problme 4: $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
- + problme 5: $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw 
+ + problme 2.4 : $200 balance, withdraw $30 each day.  show Day number , withdraw amount, balance 
+ + problme 2.5 : $500 balance, withdraw day 1 $20, day 2 $30, day 3 $20, day 4 $30 .. you repeat this pattern till you are allowed to Withdraw 
  
 ``` 
        if oddday:
@@ -103,6 +112,23 @@ comments: false
           amt = 30
           
         oddday = not (oddday) # keep blank lines you know the logical grouping , easy on your Brain , said so Python PEP20
+```
+
++ when coming to this First-order functions such as MIN , MAX etc.. we need to INTRODUCE Functions
++ problem 3.1 : find the larest number in a LIST ( max number )
++ problem 3.2 : find the samllest number in a LIST ( min number )
+
+``` 
+   def find_max(lst):
+      index = 0
+      length = len(lst)
+      largest = lst[0]
+      
+      while ( index <= length ) :
+        if lst[index] > largest:
+          largest = lst[index]
+         
+       return largest
 ```
 
 ### First-order functions
