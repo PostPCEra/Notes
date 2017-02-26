@@ -5,6 +5,12 @@ date: 2012-05-22 16:25:06 -0700
 comments: true
 ---
 
+#### 0/ ToDO list order
++ install OPT on server local on Digital Ocean
++ remove all the Cluter from page  ( Git on  Atlasian )
++ Add [JSTree Bootstrap](https://www.orangehilldev.com/jstree-bootstrap-theme/demo/){:target="_blank"}
++ add hardcoded user or simple Login with supllied userid/pwd so to have their own session and able to save FILEs
+
 #### 1/ Fremework Selection
 - whatever framework we select, we need to change/Revamp UI/UX in 6 months. So do not worry pick one and move on.
 - There were some initial thoughts on **JQuery** for it simplicity, after looking **Vue.JS and Mobx.JS** youtube Videos there is noway we can DO JQuery. Just for simple CRUD UI/UX Screens you have to CODE each of C R U D operations. Where as with Vue/Mobx/Redux just do CRUD OPERATIONS on DATA STOERE, rest is Taken care ( that is how to exactly change DOM elements) .
