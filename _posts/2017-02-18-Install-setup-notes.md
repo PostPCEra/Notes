@@ -1,23 +1,29 @@
 ##  Install & Setup Notes
 
-### 1.1  Install Node.JS on Ubantu
+### 1  Install Node.JS on Ubantu
 + follow steps below to install [Node JS Version 6](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
 + curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 + sudo apt-get install -y nodejs
 + 
 
-### 1.2  Python Virual environment on Ubantu
+### 2  Python Virual environment on Ubantu
 + Ubantu 16.04 OS disribution installs both Python 2.7 and Python 3.5 by default, so you get them FREE with Ubantu install
 + Anaconda is creating issues with other pip installs such as 'Bottle', so for now stick with PIP3
 + you can check this with  $ which python  $ which python3
 + now we need to create VIRTUAL Environment so that we keep all the software for  MasteryLearn in that dir
-+ The venv became standard library from python3 v3.3. No need to install or download anything before hand, when succeeded, pip3 will come with the virtualenv just created
++ 
++ **The venv became standard library from python3 v3.3**. No need to install or download anything before hand, when succeeded, [pip3 will come with the virtualenv just created](http://stackoverflow.com/questions/29934032/virtualenv-python-3-ubuntu-14-04-64-bit/35024841)
 + be in HOME DIR,  mkdir asr-venv , cd asr-venv   # this will hold all INDIVIDUAL virutal environments, you can have many 
-+ python3 -m venv py3-mlearn  # execute this when in user HOME DIR , this will create Virtual environment named  py3-mlearn
-+ To active the **virtualenv**
++ **2.1 Install Pip3**
+  + sudo apt-get install -y python3-pip
+  +
++ **2.2 Create Virtual Env**
+  + python3 -m venv py3-mlearn  # execute this when in user HOME DIR , this will create Virtual environment named  py3-mlearn
++ ** 2.3 To activate the virtualenv
   + source "<path-to-the-virtualenv>"/bin/activate   # now Prompt will change,  Prompt string contains Virtual Env name
   + then to deactive it:
   + deactive
++
 + to install any additional Packages be in the Virutal env dir
 + Bottle : Pyton HTTP Server[ install steps](https://bottlepy.org/docs/dev/tutorial.html)
   + sudo pip install bottle  # this will install bottle ( Python HTTP server )
@@ -27,7 +33,7 @@
 + if installing other packages like PyTest , go insde dir where Virtual Env is creaed then do pip install. So this way 'PyTest works from VSCode itself'
 + sudo pip  install pytest
 
-### 1.3  Installing Python Tutor
+### 3  Installing Python Tutor
 + main dependencies are a) Node.js install b) Python HTTP Server Bottle instal . Both were done in the above steps
 + cd ~/asr-venv/py3-mlearn
 + git clone "OPT path.git"  # this will clone OPT Github repo to local dir
