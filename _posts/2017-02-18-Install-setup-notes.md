@@ -1,5 +1,22 @@
 ##  Install & Setup Notes
 
+### 1.1  Install Node.JS on Ubantu
++ follow steps below to install [Node JS Version 6](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
++ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
++ sudo apt-get install -y nodejs
++ 
+
+### 1.2  Python Virual environment on Ubantu
++ Ubantu 16.04 OS install disribution install both Python 2.7 and Python 3.5
++ you can check this with  $ which python  $ which python3
++ now we need to create VIRTUAL Environment so that we keep all the software for  MasteryLearn in that dir
++ The venv became standard library from python3 v3.3. No need to install or download anything before hand, when succeeded, pip3 will come with the virtualenv just created
++ python3 -m venv <path-or-name-of-virtualenv>  # execute this when in user HOME DIR , this will create Virtual env
++ To active the **virtualenv**
+  + source <path-to-the-virtualenv>/bin/active   # now Prompt will change,  Prompt string contains Virtual Env name
+  + then to deactive it:
+  + deactive
+
 ### Python Virual environment on Ubantu
 + [simple stack notes](http://stackoverflow.com/questions/29934032/virtualenv-python-3-ubuntu-14-04-64-bit)
 + Have Python3 installed on Ubantu machine
