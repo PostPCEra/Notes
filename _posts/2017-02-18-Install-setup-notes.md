@@ -8,6 +8,7 @@
 
 ### 1.2  Python Virual environment on Ubantu
 + Ubantu 16.04 OS disribution installs both Python 2.7 and Python 3.5 by default, so you get them FREE with Ubantu install
++ Anaconda is creating issues with other pip installs such as 'Bottle', so for now stick with PIP3
 + you can check this with  $ which python  $ which python3
 + now we need to create VIRTUAL Environment so that we keep all the software for  MasteryLearn in that dir
 + The venv became standard library from python3 v3.3. No need to install or download anything before hand, when succeeded, pip3 will come with the virtualenv just created
