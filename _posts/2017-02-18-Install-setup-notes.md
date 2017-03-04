@@ -44,6 +44,7 @@
 + **Running OPT server** , do these 2 steps in different Terminal , but always your terminal should show you are in ACTIVE Virtual Env.
   +  npm dev webpack  (To start the Webpack file watching and compilation environment)
   + npm start  ( this will start Bottle HTTP Server )
++ then visit here to load an HTML page in your browser: [http://localhost:8003/visualize.html](http://localhost:8003/visualize.html)
 
 ### Learing by Doing first pages 
 + How to introduce to user next to 'Live coding Environment'
