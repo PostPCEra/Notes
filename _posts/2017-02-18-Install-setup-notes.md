@@ -11,9 +11,10 @@
 + you can check this with  $ which python  $ which python3
 + now we need to create VIRTUAL Environment so that we keep all the software for  MasteryLearn in that dir
 + The venv became standard library from python3 v3.3. No need to install or download anything before hand, when succeeded, pip3 will come with the virtualenv just created
-+ python3 -m venv <path-or-name-of-virtualenv>  # execute this when in user HOME DIR , this will create Virtual env
++ be in HOME DIR,  mkdir asr-venv , cd asr-venv   # this will hold all INDIVIDUAL virutal environments, you can have many 
++ python3 -m venv "<path-or-name-of-virtualenv>"  # execute this when in user HOME DIR , this will create Virtual env
 + To active the **virtualenv**
-  + source <path-to-the-virtualenv>/bin/active   # now Prompt will change,  Prompt string contains Virtual Env name
+  + source "<path-to-the-virtualenv>"/bin/active   # now Prompt will change,  Prompt string contains Virtual Env name
   + then to deactive it:
   + deactive
 
