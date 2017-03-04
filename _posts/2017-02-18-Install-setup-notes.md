@@ -19,13 +19,13 @@
   + 
 + **2.2 Create Virtual Env**
   + python3 -m venv py3-mlearn  # execute this when in user HOME DIR , this will create Virtual environment named  py3-mlearn
-+ ** 2.3 To activate the virtualenv**
++ **2.3 To activate the virtualenv**
   + source "<path-to-the-virtualenv>"/bin/activate   # now Prompt will change,  Prompt string contains Virtual Env name
   + then to deactive it:
   + deactive
 +
 + to install any additional Packages be in the Virutal env dir
-+ ** Bottle : Pyton HTTP Server**[ install steps](https://bottlepy.org/docs/dev/tutorial.html)
++ **Bottle : Pyton HTTP Server**[ install steps](https://bottlepy.org/docs/dev/tutorial.html)
   + sudo pip install bottle  # this will install bottle ( Python HTTP server )
   + (py3-mlearn)$ pip install -U bottle  # Install bottle to virtual environment
   + to test bottle install : $ python bottle  # this will show bottle command prompt
