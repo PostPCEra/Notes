@@ -16,7 +16,7 @@
 + be in HOME DIR,  mkdir asr-venv , cd asr-venv   # this will hold all INDIVIDUAL virutal environments, you can have many 
 + **2.1 Install Pip3**
   + sudo apt-get install -y python3-pip
-  +
+  + 
 + **2.2 Create Virtual Env**
   + python3 -m venv py3-mlearn  # execute this when in user HOME DIR , this will create Virtual environment named  py3-mlearn
 + ** 2.3 To activate the virtualenv
@@ -25,7 +25,7 @@
   + deactive
 +
 + to install any additional Packages be in the Virutal env dir
-+ Bottle : Pyton HTTP Server[ install steps](https://bottlepy.org/docs/dev/tutorial.html)
++ ** Bottle : Pyton HTTP Server**[ install steps](https://bottlepy.org/docs/dev/tutorial.html)
   + sudo pip install bottle  # this will install bottle ( Python HTTP server )
   + (py3-mlearn)$ pip install -U bottle  # Install bottle to virtual environment
   + to test bottle install : $ python bottle  # this will show bottle command prompt
