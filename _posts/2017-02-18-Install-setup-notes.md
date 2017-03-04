@@ -19,7 +19,7 @@
   + 
 + **2.2 Create Virtual Env**
   + python3 -m venv py3-mlearn  # execute this when in user HOME DIR , this will create Virtual environment named  py3-mlearn
-+ ** 2.3 To activate the virtualenv
++ ** 2.3 To activate the virtualenv**
   + source "<path-to-the-virtualenv>"/bin/activate   # now Prompt will change,  Prompt string contains Virtual Env name
   + then to deactive it:
   + deactive
