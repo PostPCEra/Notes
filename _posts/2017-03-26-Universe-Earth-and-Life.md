@@ -11,7 +11,7 @@ comments: true
 
 2/ [Origin of Life - How Life Started on Earth : KEY minerals](https://www.youtube.com/watch?v=xyhZcEY5PCQ&list=PLWQMRGdIhqcUocBkjPqqccqq-qPJdGrSk&index=2&t=47s)
 
-3/ [Ape To Man: Evolution Documentary](https://www.youtube.com/watch?v=5sMqFivWTmk)
+3/ [Ape To Man: Evolution Documentary](https://www.youtube.com/watch?v=5sMqFivWTmk)-- 3.2 Million ago, Ape Started walking Bi Pedel, resulting in a) improved Survival as can see Further b) Freed hands for Stone Tools usage
 
 4/ 
 
