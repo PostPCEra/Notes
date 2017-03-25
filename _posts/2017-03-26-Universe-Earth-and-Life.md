@@ -11,7 +11,15 @@ comments: true
 
 2/ [Origin of Life - How Life Started on Earth : KEY minerals](https://www.youtube.com/watch?v=xyhZcEY5PCQ&list=PLWQMRGdIhqcUocBkjPqqccqq-qPJdGrSk&index=2&t=47s)
 
-3/ [Ape To Man: Evolution Documentary](https://www.youtube.com/watch?v=5sMqFivWTmk)-- 3.2 Million ago, Ape Started walking Bi Pedel, resulting in a) improved Survival as can see Further b) Freed hands for Stone Tools usage
+3/ [Ape To Man: Evolution Documentary](https://www.youtube.com/watch?v=5sMqFivWTmk) 
++ 3.2 Million ago, Ape Started WALKING Bi PIDEL, resulting in 
+  + a) improved SURVIVAL as can see Further 
+  + b) HANDS are FREED, hence used to develop and use STONE TOOLS
+  
++ Technology development paved the path way (This is why you need to know History which can help you see FUTURE )
+  + from 1920 to 1970 Scients struggled where to dig for Fossils to examine Anicent human Fossils. Hundreds of Scients digged random places for Decades
+  + then came Carbon Dating Technolgy ( which can age any rock/materils) : so American team test rock age and chose Ethopia and found 3.2 M years old APE Fossile  
+
 
 4/ 
 
