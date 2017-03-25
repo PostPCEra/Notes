@@ -14,3 +14,6 @@ comments: true
 3/ [Ape To Man: Evolution Documentary](https://www.youtube.com/watch?v=5sMqFivWTmk)
 
 4/ 
+
+
+6/ [Biology of Belief - by Bruce Lipton](https://www.youtube.com/watch?v=jjj0xVM4x1I)
