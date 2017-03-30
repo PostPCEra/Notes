@@ -15,12 +15,18 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + ANIMAL
 
 0/ **Stated Clearly Channel**
+  + Where did Earth’s [water come from?](https://www.youtube.com/watch?v=RwtO04EXgUE)
+  + Where does [gold come from?](https://www.youtube.com/watch?v=jf_4z4AKwJg)- Early Earth story
+  + Can Science Explain [the Origin of Life?](https://www.youtube.com/watch?v=fgQLyqWaCbA)
+      + Life Originated from Chemistry, one theory meteorite may have carried Molecules to Earth
+  + What Was The Miller-Urey Experiment?(https://www.youtube.com/watch?v=NNijmxsKGbc) - Creating Amino Acids (building blocks of Protiens in the LAB )
+   
   + What is [Evolution](https://www.youtube.com/watch?v=GhHOjC4oxh8)
   + What is [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
   + What is the [Evidence for Evolution](https://youtu.be/lIEoO5KdPvg)
-   + Can Science Explain [the Origin of Life?](https://www.youtube.com/watch?v=fgQLyqWaCbA)
-      + Life Originated from Chemistry, one theory meteroid may have carried Molecules to Earth
-    
+  + Does the [Theory of Evolution Really Matter?](https://www.youtube.com/watch?v=hqepQGOYKZ0) - YES , based on Evoluiton, scientists found the Origin of HIV as 1900 in Africa
+  
+ 
     
 1/  [The Story Of Earth (Origin) And Life](https://www.youtube.com/watch?v=57merteLsBc&t=75s)
 
