@@ -14,7 +14,7 @@ comments: true
 3/ [Ape To Man: Evolution Documentary](https://www.youtube.com/watch?v=5sMqFivWTmk) 
 + 3.2 Million ago, Ape Started WALKING Bi PIDEL, resulting in 
   + a) improved SURVIVAL as can see Further 
-  + b) HANDS are FREED, hence used to develop and use STONE TOOLS
+  + b) HANDS are FREED, hence used to develop and use STONE TOOLS ( this gave APe the EDGE over other Animal )
   
 + Technology development paved the path way (This is why you need to know History which can help you see FUTURE )
   + from 1920 to 1970 Scients struggled where to dig for Fossils to examine Anicent human Fossils. Hundreds of Scients digged random places for Decades
