@@ -20,11 +20,13 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + Can Science Explain [the Origin of Life?](https://www.youtube.com/watch?v=fgQLyqWaCbA)
       + Life Originated from Chemistry, one theory meteorite may have carried Molecules to Earth
   + What Was The [Miller-Urey Experiment?](https://www.youtube.com/watch?v=NNijmxsKGbc) - Creating Amino Acids in the LAB (building blocks of Protiens), hence showing Early LIFE would have formed from Chimistry of Minerals
+  + What Is the [RNA World Hypothesis?](https://www.youtube.com/watch?v=K1xnYFCZ9Yg)
+  + What Caused Life's [Major Evolutionary Transitions?](https://www.youtube.com/watch?v=VUfNEHl44hc) - the answer is Cooperation
    
   + What is [Evolution](https://www.youtube.com/watch?v=GhHOjC4oxh8)
   + What is [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
   + What is the [Evidence for Evolution](https://youtu.be/lIEoO5KdPvg)
-  + Does the [Theory of Evolution Really Matter?](https://www.youtube.com/watch?v=hqepQGOYKZ0) - YES , based on Evoluiton, scientists found the Origin of HIV as 1900 in Africa
+  + Does the [Theory of Evolution Really Matter?](https://www.youtube.com/watch?v=hqepQGOYKZ0) - YES , by probing Evoluiton of HIV DNA, scientists found the Origin of HIV as 1900 in Africa
   
  
     
