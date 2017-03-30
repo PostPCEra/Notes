@@ -19,7 +19,7 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + What is [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
   + What is the [Evidence for Evolution](https://youtu.be/lIEoO5KdPvg)
    + Can Science Explain [the Origin of Life?](https://www.youtube.com/watch?v=fgQLyqWaCbA)
-    + Life Originated from Chemistry, one theory meteroid may have carried Molecules to Earth
+      + Life Originated from Chemistry, one theory meteroid may have carried Molecules to Earth
     
     
 1/  [The Story Of Earth (Origin) And Life](https://www.youtube.com/watch?v=57merteLsBc&t=75s)
