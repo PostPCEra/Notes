@@ -19,7 +19,7 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + Where does [gold come from?](https://www.youtube.com/watch?v=jf_4z4AKwJg)- Early Earth story
   + Can Science Explain [the Origin of Life?](https://www.youtube.com/watch?v=fgQLyqWaCbA)
       + Life Originated from Chemistry, one theory meteorite may have carried Molecules to Earth
-  + What Was The Miller-Urey Experiment?(https://www.youtube.com/watch?v=NNijmxsKGbc) - Creating Amino Acids (building blocks of Protiens in the LAB )
+  + What Was The [Miller-Urey Experiment?](https://www.youtube.com/watch?v=NNijmxsKGbc) - Creating Amino Acids in the LAB (building blocks of Protiens), hence showing Early LIFE would have formed from Chimistry of Minerals
    
   + What is [Evolution](https://www.youtube.com/watch?v=GhHOjC4oxh8)
   + What is [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
