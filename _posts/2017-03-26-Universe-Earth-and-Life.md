@@ -27,6 +27,9 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + What is [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
   + What is the [Evidence for Evolution](https://youtu.be/lIEoO5KdPvg)
   + Does the [Theory of Evolution Really Matter?](https://www.youtube.com/watch?v=hqepQGOYKZ0) - YES , by probing Evoluiton of HIV DNA, scientists found the Origin of HIV as 1900 in Africa
+  +
+  + Part 1: How Does [New Genetic Information Evolve?](https://www.youtube.com/watch?v=DlhpvcgK_28) Point Mutations
+  + Part 2: [Gene Duplications](https://www.youtube.com/watch?v=G4VINRUe_o4)
   
  
     
