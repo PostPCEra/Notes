@@ -42,7 +42,8 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
 3/ [Ape To Man: Evolution Documentary](https://www.youtube.com/watch?v=5sMqFivWTmk) 
 + 3.2 Million ago, Ape Started WALKING Bi PIDEL, resulting in 
   + a) improved SURVIVAL as can see Further 
-  + b) HANDS are FREED, hence used to develop and use STONE TOOLS ( this gave APe the EDGE over other Animal )
+  + b) HANDS are FREED, hence used to develop and use STONE TOOLS ( Tools further used for Survival and to protect from other animals, hence 'Darwin Natural Selection theory Kicked-in' )
+  + These two characterstics/skills gave APE the "crucial early EDGE" over other Animal to dominate the "Animal kingdom" eventually.
   
 + Technology development paved the path way (This is why you need to know History which can help you see FUTURE )
   + from 1920 to 1970 Scients struggled where to dig for Fossils to examine Anicent human Fossils. Hundreds of Scients digged random places for Decades
