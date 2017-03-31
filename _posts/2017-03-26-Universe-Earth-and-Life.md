@@ -20,6 +20,7 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + Can Science Explain [the Origin of Life?](https://www.youtube.com/watch?v=fgQLyqWaCbA)
       + Life Originated from Chemistry, one theory meteorite may have carried Molecules to Earth
   + What Was The [Miller-Urey Experiment?](https://www.youtube.com/watch?v=NNijmxsKGbc) - Creating Amino Acids in the LAB (building blocks of Protiens), hence showing Early LIFE would have formed from Chimistry of Minerals
+  + What is [Chemical Evolution?](https://www.youtube.com/watch?v=mRzxTzKIsp8)
   + What Is the [RNA World Hypothesis?](https://www.youtube.com/watch?v=K1xnYFCZ9Yg)
   + What Caused Life's [Major Evolutionary Transitions?](https://www.youtube.com/watch?v=VUfNEHl44hc) - the answer is Cooperation
    
@@ -30,6 +31,7 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   +
   + Part 1: How Does [New Genetic Information Evolve?](https://www.youtube.com/watch?v=DlhpvcgK_28) Point Mutations
   + Part 2: [Gene Duplications](https://www.youtube.com/watch?v=G4VINRUe_o4)
+  + What is [DNA and How Does it Work?](https://www.youtube.com/watch?v=zwibgNGe4aY)
   
  
     
