@@ -179,6 +179,11 @@ comments: false
 + **Filter ( Keep Some )**
 + **Driver function and Core function**
 + **At higher level, many porgramming tasks are one of **  a) Map  b) Reduce or c) Filter
++  ask to write simple code , not whole program 
+  + ex. lst = [ 4,6,1,2,4,3] , write code to split this list at the end of 3 rd element and see if LEft and Right List are equal or not by SUM
+  + this way student only think simple code not whole program, once done ask to split after 4 th element, 
+  + then ask to wrap this to any element 'n' by passing n as param to function 
+  + then give WHOLE program which is : can you split anyway so that LEFT and RIGHT lists are equaly by SUM of their elements.
 
 + **Accumulation**
   - Accumulation into  either a variable ( calculate Sum of a List numbers )  or in a List ( append to List in each iteration )
