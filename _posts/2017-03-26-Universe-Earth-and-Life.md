@@ -6,7 +6,7 @@ comments: true
 ---
 
 ## Human Knowledge : Universe Stars -- Earth and Life Bioligy
- **These video channels provide so much Knowledge, Wisdom and Human experieces in ALL Walks of Scicen and Human history**
+ **These video channels shed light and discuss 'the Knowledge, Wisdom and Human experieces' from ALL Walks of Scicene and Human history**
  
 + 1/ [Evolution & Biology ( Stated Clearly) ](https://www.youtube.com/user/sciencestatedclearly/videos?sort=p&view=0&flow=grid)
 + 2/ [Space & Universe (In an Nutshell)](https://www.youtube.com/user/Kurzgesagt/playlists) - Universe & Space 
