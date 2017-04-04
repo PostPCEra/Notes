@@ -20,8 +20,8 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + FUNGUS
   + ANIMAL
   
-  [CRISPR - Genetic Engineering](https://www.youtube.com/watch?v=jAhjPd4uNFY) Will Change Everything Forever 
-  [ Gene Drive & Malaria-](https://www.youtube.com/watch?v=TnzcwTyr6cE) How To Eradicate One Of Our Deadliest Enemies
+  + [CRISPR - Genetic Engineering](https://www.youtube.com/watch?v=jAhjPd4uNFY) Will Change Everything Forever 
+  + [ Gene Drive & Malaria-](https://www.youtube.com/watch?v=TnzcwTyr6cE) How To Eradicate One Of Our Deadliest Enemies
   + [Hacking DNA: ](http://blog.ycombinator.com/hacking-dna-the-story-of-crispr-ken-thompson-and-the-gene-drive/)The Story of CRISPR, Ken Thompson, and the Gene Drive
 
 0/ **Stated Clearly Channel**
