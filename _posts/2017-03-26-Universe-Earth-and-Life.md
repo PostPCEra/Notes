@@ -10,8 +10,8 @@ comments: true
  
 + 1/ [Evolution & Biology ( Stated Clearly) ](https://www.youtube.com/user/sciencestatedclearly/videos?sort=p&view=0&flow=grid)
 + 2/ [Space & Universe (In an Nutshell)](https://www.youtube.com/user/Kurzgesagt/playlists) - Universe & Space 
-+ 3/ Crash Course(https://www.youtube.com/user/crashcourse) - text book Crash Courses on ALL High school subjects
-+ 4/ [Ted Tlaks( somany Human Wisdoms & experinces)](https://www.youtube.com/user/TEDtalksDirector/playlists)
++ 3/ [Crash Course](https://www.youtube.com/user/crashcourse) - text book Crash Courses on ALL High school subjects
++ 4/ [Ted Tlaks (so much Human Wisdoms & experinces)](https://www.youtube.com/user/TEDtalksDirector/playlists)
 
 -----------------------------
 0/ **Evolution** [from Bacteria to Humans](https://youtu.be/Ew-6WuTo1Is)
