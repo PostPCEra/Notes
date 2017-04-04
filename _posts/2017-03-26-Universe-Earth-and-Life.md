@@ -20,10 +20,13 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + FUNGUS
   + ANIMAL
   
-  + [Time - The History and Future of Everything](https://www.youtube.com/watch?v=2XkV6IpV2Y0)
+  + [Carbon Life](https://www.khanacademy.org/science/biology/crash-course-bio-ecology/crash-course-biology-science/v/crash-course-biology-113) - good to see all 'Crash Course'videos on KhanAcademy
+  + [Biological Molecules - You are what you eat](https://www.khanacademy.org/science/biology/crash-course-bio-ecology/crash-course-bi
   + [CRISPR - Genetic Engineering](https://www.youtube.com/watch?v=jAhjPd4uNFY) Will Change Everything Forever 
   + [ Gene Drive & Malaria-](https://www.youtube.com/watch?v=TnzcwTyr6cE) How To Eradicate One Of Our Deadliest Enemies
   + [Hacking DNA: ](http://blog.ycombinator.com/hacking-dna-the-story-of-crispr-ken-thompson-and-the-gene-drive/)The Story of CRISPR, Ken Thompson, and the Gene Drive
+  ology-science/v/crash-course-biology-103)
+  + [Time - The History and Future of Everything](https://www.youtube.com/watch?v=2XkV6IpV2Y0)
 
 0/ **Stated Clearly Channel**
   + Where did Earth’s [water come from?](https://www.youtube.com/watch?v=RwtO04EXgUE)
