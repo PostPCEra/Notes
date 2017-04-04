@@ -28,6 +28,8 @@ Bacteria ->Eukeryoute (Cells with Nucleus ) ->3 KINGDOMS
   + [Hacking DNA: ](http://blog.ycombinator.com/hacking-dna-the-story-of-crispr-ken-thompson-and-the-gene-drive/)The Story of CRISPR, Ken Thompson, and the Gene Drive
   ology-science/v/crash-course-biology-103)
   + [Time - The History and Future of Everything](https://www.youtube.com/watch?v=2XkV6IpV2Y0)
+  + [4000 years of World History Map](https://www.brainpickings.org/index.php/2012/02/07/cartographies-of-time/) - Relative Powers of Contemporary 'States, Nations and Empires'
+
 
 0/ **Stated Clearly Channel**
   + Where did Earth’s [water come from?](https://www.youtube.com/watch?v=RwtO04EXgUE)
