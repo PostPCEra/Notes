@@ -8,6 +8,55 @@ comments: false
 Design of a Coding Bot
 =======================
 
+## Thought process 2:
+--------------
+
+Have Test data in  YMALs Simplified Format 
+
+Record1: name, age, type
+ritu, 1, child
+shiven, 7, child
+boy2, 12, child
+asr, 48, adult
+padma, 44, adult
+anvith, 20, adult
+girlT, 19, teen
+gitu, 15, teen
+ishu, 13, teen
+#transormations
+INPUT: name, age
+OUTPUT: Record1
+
+Here is INPUT is subset of RECORD1, output is full Record1
+
+**1/ arrange TEST Data Records as matrix. **
+ ``` 
+output = [ [ ritu , 1 ,child ],
+ [ shiven, 7, child ],
+ [ boy2, 12, child  ],
+   ........
+]
+
+iput = [ [ ritu , 1 ],
+ [ shiven, 7 ],
+ [ boy2, 12 ],
+   ........
+]
+
+**2/  Coding bot will first derermines what is the SOLUTION_TYPE **
+
+  if len(input) == len(output):
+    solution_type = MAP
+  elif len(output) == 1
+    solution_type = REDUCE
+  elif len(output) < len(input):
+    solution_type = FILTER
+
+```
+
+## Thought process 1:
+----------------
+
 ### ingradients:
 + unit test suite JSON file, from it generate unit test program
 + have a list of INPUT to OUTPUT Mapping functions
