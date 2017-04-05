@@ -65,6 +65,16 @@ iput = [ [ ritu , 1 ],
            s_type2 = MAP_OBJECT   # Object like above people age, type MAP
         
 ```
+**4/ fining the Input, output relation function
+
+```
+  based on Spec line OUTPUT(type) = F(input(age)), Bot will arrange matrix as
+     [ [ child , [  ] ,  { min:  , max:  } ], 
+       [ adult , [  ] ,  { min:  , max:  } ], 
+       [ teen ,  [  ] ,  { min:  , max:  } ]
+     ]
+     based on the above matrix it will write the CODE ...
+```
 
 ## Thought process 1:
 ----------------
