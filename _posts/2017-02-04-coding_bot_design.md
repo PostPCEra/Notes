@@ -26,10 +26,11 @@ ishu, 13, teen
 #transormations
 INPUT: name, age
 OUTPUT: Record1
+OUTPUT(type) = F(input(age)) # optinoally you can sepcify relationship, to make BOT life easy
  ``` 
 Here is INPUT is subset of RECORD1, output is full Record1
 
-**2/ arrange TEST Data Records as matrix.**
+**2/ BOT will arrange TEST Data Records as matrix.**
  ``` 
 output = [ [ ritu , 1 ,child ],
  [ shiven, 7, child ],
@@ -52,6 +53,17 @@ iput = [ [ ritu , 1 ],
   elif len(output) < len(input):
     solution_type = FILTER
 
+  if ( solution_type == MAP ): 
+      dim_input , dim_output = 0
+    
+      dim_input = dim(input) # function returns TUPLE such as ( 5, 2)  indicatiing theere are 5 rows and 2 Columns
+      dim_output = dim(out)  # ( 5, 3 )  3 Columns
+      
+      if (dim_input[0] == 1 and dim_output[0] == 1 ):
+           s_type2 = MAP_SIMPLE_LINEAR   # example: from input [ 1,3, 5] calculate squares of input as [ 1, 9, 25 ]
+      else:
+           s_type2 = MAP_OBJECT   # Object like above people age, type MAP
+        
 ```
 
 ## Thought process 1:
