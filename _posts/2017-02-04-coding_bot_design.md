@@ -11,7 +11,7 @@ Design of a Coding Bot
 ## Thought process 2:
 --------------
 
-** 1/ Have Test data in  YMALs Simplified Format **
+**1/ Have Test data in  YMALs Simplified Format**
  ``` 
 Record1: name, age, type
 ritu, 1, child
@@ -29,7 +29,7 @@ OUTPUT: Record1
  ``` 
 Here is INPUT is subset of RECORD1, output is full Record1
 
-** 2/ arrange TEST Data Records as matrix. **
+**2/ arrange TEST Data Records as matrix.**
  ``` 
 output = [ [ ritu , 1 ,child ],
  [ shiven, 7, child ],
@@ -43,7 +43,7 @@ iput = [ [ ritu , 1 ],
    ........
 ]
 ```
-**2/  Coding bot will first derermines what is the SOLUTION_TYPE **
+**3/  Coding bot will first derermines what is the SOLUTION_TYPE**
 ```
   if len(input) == len(output):
     solution_type = MAP
@@ -92,16 +92,3 @@ iput = [ [ ritu , 1 ],
 - This can be done with Class Objects ( List of Person objects), or JSON files of Objects ( a JSON file with List of People data )
 
 
-### some Markdown samples below
-
-```
-$ git remote add upstream git@github.com:scotte/jekyll-clean.git
-```
-
-```python
-import random
-
-# Roll the die
-roll = random.randint(1, 20)
-print('You rolled a %d.' % roll)
-```
