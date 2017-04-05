@@ -11,8 +11,8 @@ Design of a Coding Bot
 ## Thought process 2:
 --------------
 
-Have Test data in  YMALs Simplified Format 
-
+** 1/ Have Test data in  YMALs Simplified Format **
+ ``` 
 Record1: name, age, type
 ritu, 1, child
 shiven, 7, child
@@ -26,10 +26,10 @@ ishu, 13, teen
 #transormations
 INPUT: name, age
 OUTPUT: Record1
-
+ ``` 
 Here is INPUT is subset of RECORD1, output is full Record1
 
-**1/ arrange TEST Data Records as matrix. **
+** 2/ arrange TEST Data Records as matrix. **
  ``` 
 output = [ [ ritu , 1 ,child ],
  [ shiven, 7, child ],
@@ -42,9 +42,9 @@ iput = [ [ ritu , 1 ],
  [ boy2, 12 ],
    ........
 ]
-
+```
 **2/  Coding bot will first derermines what is the SOLUTION_TYPE **
-
+```
   if len(input) == len(output):
     solution_type = MAP
   elif len(output) == 1
