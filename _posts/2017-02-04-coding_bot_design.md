@@ -8,6 +8,11 @@ comments: false
 Design of a Coding Bot
 =======================
 
+Application in real life:
+ + IF NOT complete BOT coding, you can have a 'GUIDED BOT', meaning you give INPUT and OUTPUT data for Each INTERMDIATE Step, then BOT produce Code, you may modify it bit as needed.
+ + Advantage with this is , your CODE is UNIT tested as YOU Write 
+ + Having Data in hand before CODING, will improve your Logic/Algorithamic Thinking and may provide 25% more CODE in a given TIME
+
 ## Thought process 2:
 --------------
 
@@ -69,9 +74,9 @@ iput = [ [ ritu , 1 ],
 
 ```
   based on Spec line OUTPUT(type) = F(input(age)), Bot will arrange matrix as
-     [ [ child , [  ] ,  { min:  , max:  } ], 
-       [ adult , [  ] ,  { min:  , max:  } ], 
-       [ teen ,  [  ] ,  { min:  , max:  } ]
+     [ [ child , [1, 7, 12 ] ,  { min:1  , max:12  } ], 
+       [ adult , [20, 44, 48 ] ,  { min:20  , max:48  } ], 
+       [ teen ,  [13,15,16,19 ] ,  { min:13 , max:19  } ]
      ]
      based on the above matrix it will write the CODE ...
 ```
