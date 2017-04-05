@@ -13,7 +13,7 @@ Design of a Coding Bot
 
 **1/ Have Test data in  YMALs Simplified Format**
  ``` 
-Record1: name, age, type
+Record1: name, age, type  # makesure you provide DATA for EDGE cases, good practice start data with MIN value and End with MAX value
 ritu, 1, child
 shiven, 7, child
 boy2, 12, child
