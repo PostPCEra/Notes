@@ -9,7 +9,8 @@ comments: true
 ### [Why thre are so many Languages in INDIA ?](https://www.quora.com/Why-are-there-so-many-languages-in-India-and-from-where-did-they-develop)
   + **Retention of these languages with time:** Lack of centralizing tendencies in India that would steam-roll these languages into fewer languages. 
 We never had a Language Governing Board or a Spelling Board or a ruler banning languages.
-  + 
+  +  [ Hyderabd nizam](http://www.southreport.com/25-facts-might-not-known-last-nizam-hyderabad/)
+  +
   + asr: where as in CHINA you have great Empire [Han Dynasty](https://en.wikipedia.org/wiki/Han_dynasty) 250 BC - 200 AD in that time frame, great Unification happened, hence resulted in very few languages
   + where are in India, thre are so many small states . In BC 200 there was a ['Maurya' Empire of Asoka for 200 years: 326 BCE - 180 BCE](https://en.wikipedia.org/wiki/Maurya_Empire), Asoka was the most famous of it
   + after that there is ['Gupta' Empire : 320CE - 550 CE : Golden age of India](https://en.wikipedia.org/wiki/Gupta_Empire) ( sansrikt was main official language ) .
