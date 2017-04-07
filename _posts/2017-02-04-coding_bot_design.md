@@ -8,13 +8,47 @@ comments: false
 Design of a Coding Bot
 =======================
 
+## Thought process 3:
+--------------
+
+with respect to base Atomic operations MAP/Reduce/Filter
+ + MAP
+  + MAP_FUNC : Functional MAP , ex find Squares of a given input list [ 1,5, 4, 12 ], the output Uniform Functional relationship
+  + MAP_CAT : Category MAP , FizzBuzz problem is a Category Map. you Map input to output by bucketing into certain categories 
+  + [ name, age , type] with output Type being one of ( child, teen, adult) based on age,  this is MAP_CAT , here category is homogenious
+  
+ + How Coding Bot will figure it out MAP_FUNC vs. MAP_CAT . When ALL output Elements are of same type, then BOT make  is as MAP_FUNC
+ + How the BOT go about  FizBuzz vs. Person Type problmes
+  + FizzBuzz : if number is multiple of 3 print 'Fizz', if multiple of 5 , print 'Buzz', mul of both print 'FizzBuzz' , otherwise print number
+ ``` 
+ input = [ 1,2,3,4,5,6,7,9.10.11,12,13,14,15 ... ]
+ output = [ 1,2, 'Fizz, 4, 'Buzz', 'Fizz', 7, 8,'Fizz', 'Buzz, ..  14, 'FizzBuzz', 16, 17 ]
+ 
+ map_func, map_cat = False  # init
+ reduce = False
+ filter - False
+ 
+ if len(output) == 1:
+   reduce = True
+ elif len(input) < len(output):
+   filter = True
+ elif len(input) == len(output):
+    inp_type = [ type(x) for x in output ]
+
+    if ( len( set(inp_type) )  == 1 ):
+        map_func = True
+    else
+        map_cat = True
+         
+ ``` 
+## Thought process 2:
+--------------
+
 Application in real life:
  + IF NOT complete BOT coding, you can have a 'GUIDED BOT', meaning you give INPUT and OUTPUT data for Each INTERMDIATE Step, then BOT produce Code, you may modify it bit as needed.
  + Advantage with this is , your CODE is UNIT tested as YOU Write 
  + Having Data in hand before CODING, will improve your Logic/Algorithamic Thinking and may provide 25% more CODE in a given TIME
 
-## Thought process 2:
---------------
 
 **1/ Have Test data in  YMALs Simplified Format**
  ``` 
