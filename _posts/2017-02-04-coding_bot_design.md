@@ -16,11 +16,11 @@ Design of a Coding Bot
 + developer give input, on a picked solution , it shows CODE and OUTPUT like our REAL TIME Python Editor ( no compile etc..), User can go back and front Arrow  to see Values ,and Tweak CODE ...
 
 + Text processing
- + string delimit ( like our Soloka delimit by "," )
- + string chunks removal
+  + string delimit ( like our Soloka delimit by "," )
+  + string chunks removal
  
 + Filtering
- + Objects  ( object of (name, age, salary) )
+  + Objects  ( object of (name, age, salary) )
 
 + Mapping
 
