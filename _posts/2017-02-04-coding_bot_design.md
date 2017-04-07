@@ -11,6 +11,19 @@ Design of a Coding Bot
 ## Thought process 3:
 --------------
 
++ [topnotch Kite Team](https://kite.com/aboutus) - they need to extend this 'simple Syntax help' to 'Coding BOT' like what i envinioised here 
++ a Site like stackOVerflow/Kite where you have Catalogue Repository of Solutions and 'Developer' pick one from  'Editor itself' 
++ developer give input, on a picked solution , it shows CODE and OUTPUT like our REAL TIME Python Editor ( no compile etc..), User can go back and front Arrow  to see Values ,and Tweak CODE ...
+
++ Text processing
+ + string delimit ( like our Soloka delimit by "," )
+ + string chunks removal
+ 
++ Filtering
+ + Objects  ( object of (name, age, salary) )
+
++ Mapping
+
 with respect to base Atomic operations MAP/Reduce/Filter
  + MAP
   + MAP_FUNC : Functional MAP , ex find Squares of a given input list [ 1,5, 4, 12 ], the output Uniform Functional relationship
@@ -40,6 +53,33 @@ with respect to base Atomic operations MAP/Reduce/Filter
     else
         map_cat = True
          
+ if (map_cat) :
+   out_dict = { }
+   i = 0
+   lenght = len(output)
+   while ( i < length):
+     build out_dict
+     
+  out_dict = {  1: [1], 2: [2], 'Fizz' : [ 3, 6, 9, 12,  18] , 'buzz' : [5, 10, 20 ],  'fizzbuzz': [15,30,45], 4: [4] .. 11:[11] ] 
+  
+  relations = [ ]
+  for i, v in out_dict:
+     rel = find_relation(v)
+     realtions.add(rel)
+     
+  relations = [ n2n, n2n, [ multiple3, 'Fizz' ] , [ multiple5, 'buzz' ] , [multiple15, 'fizzbuzz ], n2n, n2n ]
+  # now BOT will write CODE file based on above 'relations' list
+  
+  for x in lst:
+    if multiple15(x):
+       out.append('FizzBuzz')
+    elif multiple3(x):
+       out.append('Fizz')
+    elif multiple5(x):
+      out.append('Buzz')
+    else:
+      out.append(x)
+  
  ``` 
 ## Thought process 2:
 --------------
