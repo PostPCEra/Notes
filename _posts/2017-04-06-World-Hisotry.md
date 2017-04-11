@@ -6,6 +6,13 @@ comments: true
 ---
 
 # 
+
+### China 
+ + After Chinese Civil War in 1949,  PRC executed 1 M criminals/land lords and [created communvity Land](https://en.wikipedia.org/wiki/Chinese_Civil_War)
+ + After 1947 Indepence INDIA , started giving PRIVY PURSE every month to each of 500+ PRINCY States
+ + Here lies the difference, the expecation from People .
+ +
+ 
 ### [Why thre are so many Languages in INDIA ?](https://www.quora.com/Why-are-there-so-many-languages-in-India-and-from-where-did-they-develop)
   + **Retention of these languages with time:** Lack of centralizing tendencies in India that would steam-roll these languages into fewer languages. 
 We never had a Language Governing Board or a Spelling Board or a ruler banning languages.
