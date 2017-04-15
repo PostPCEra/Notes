@@ -8,12 +8,23 @@ comments: false
 Design of a Coding Bot
 =======================
 
-## Thought process 3:
---------------
-
 + [topnotch Kite Team](https://kite.com/aboutus) - they need to extend this 'simple Syntax help' to 'Coding BOT' like what i envinioised here 
 + a Site like stackOVerflow/Kite where you have Catalogue Repository of Solutions and 'Developer' pick one from  'Editor itself' 
 + developer give input, on a picked solution , it shows CODE and OUTPUT like our REAL TIME Python Editor ( no compile etc..), User can go back and front Arrow  to see Values ,and Tweak CODE ...
+
+## Thought process 4:
+--------------
+How User Interface Works
++ user picks from a SEARCH Box, he wanted solution for 'Text processing' -> extraction By Delimit . Then User is presented with INPUT & OUTPUT sample of pre-templates. User select one Template. example
+  + @input str = 'This is some text"," this is news for today"" today headline is US POT visits China"," EU presidnet visits Asia'
+  + @param delimiters = [ '","' ,  '""' ]
+  + @output lst = [ 'This is some text', 'this is news for today', 'today headline is US POT visits China', EU President visits Asia' ]
++ by looking above user can modify @input and or @param, program will show CODE, user run with mutilple case of INPUT 
++ IF your did not specify @param Delimiters, BOT can detect as follow
++ pointer = str[len(lst[0])], from this Char advance pointer till it match  with first Char of lst[1] , those many Char string is 'delimier 1' , do same fo find other delimiters 
+
+## Thought process 3:
+--------------
 
 + Text processing
   + string delimit ( like our Soloka delimit by "," )
