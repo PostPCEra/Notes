@@ -49,6 +49,7 @@ comments: false
 4. **Modelling Complex example:**
  + You are the first person standing in a line for a Concert Tickets. You bought 2 tickets and your friend just called he won't be able to join you for the concert. Now you have one extra ticket to sell to somebody ( there are 100s of people in line), you thought for a  second and decided you will sell that ticket to a person who is wearing same colour shirt (top) as yours starting from LAST person of the Line.
  + write a function to calculate the Distance (how many people are in) between both of you 
+ + As a Manual Human JOB, people count from LAST of Line and subtract it from TOTAL LINE count, but in programming Kids write LOOP from 0 ( teach them this, before writing CODE, how you do this as a WISE Human , then apply same LOGIC to CODING )
  + Concert Manager came to know your creative way of giving ticket and impressed with your method. To appreciate you, manager announced he follows the same method as yours, but gives two tickets FREE to the Fartherest apart two people wearing same color shirt (top) in the line. Write a program to find that distance ( bonus : find those 2 lucky people, say person 5 and person 86 etc.. ) 
 
 ### III. Content & Tutorials : 
