@@ -27,8 +27,9 @@ How User Interface Works
 --------------
 
 + Text processing
-  + string delimit ( like our Soloka delimit by "," )
-  + string chunks removal
+  + string delimit ( like our Soloka delimit by \",\" )
+  + string chunks ( or Chars) removal
+  + extract Reg Ex data
  
 + Filtering
   + Objects  ( object of (name, age, salary) )
