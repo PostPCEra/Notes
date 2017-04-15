@@ -5,8 +5,15 @@ date: 2017-02-04 16:25:06 -0700
 comments: false
 ---
 
-Design of a Coding Bot
+Real-time Assisted Programming (RAP ) : Design of a Coding Bot 
 =======================
+
++ Build AI that does [real-time assisted programming](https://blog.sourced.tech/post/our-roadmap/)
+  + Emulating the work of human developers means must have built an understanding of the different ways a piece of code can be written.
+  + Let’s consider a simple piece of code written by a developer: a function that has well **defined inputs and outputs** and no side-effects, and you imagine how a machine might be able to write this.
+  + If you imagine how a developer writes this same simple program, you start seeing the notion of intuition and experience. Performance is no longer the only notion that defines the right program, such others may be: simplicity, elegance, readability, extensibility, etc.
+  
+  + The practical application is technology that can suggest you code, rewrite your code, change your code’s style, optimize code and applications we haven’t yet thought off.
 
 + [topnotch Kite Team](https://kite.com/aboutus) - they need to extend this 'simple Syntax help' to 'Coding BOT' like what i envinioised here 
 + a Site like stackOVerflow/Kite where you have Catalogue Repository of Solutions and 'Developer' pick one from  'Editor itself' 
