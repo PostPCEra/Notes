@@ -8,7 +8,8 @@ comments: false
 ## Market Size Estimation for Movie Ticket reservation
 
 #### As per [Wikipedia](https://en.wikipedia.org/wiki/List_of_cinema_and_movie_theater_chains)
-[Fandango monpoly](https://www.quora.com/Why-is-Rotten-Tomatoes-selling-to-Fandango)  
+[Fandango monpoly](https://www.quora.com/Why-is-Rotten-Tomatoes-selling-to-Fandango)  - It seems Fandango may have got Movie Theatehrs signed EXCLUSIVE aggrements NOT to give their Ticket to any other TICKET SELL service ( in return for NO Charge Service for 10 to 20 years) . In this case No 'New Online Ticket sell Startup' can approach Theaters .
+ - Otherwise $1 per ticket , usually people do in group of 2 to 3 . $3 avg. price cut on a $24 is close to 10% is TOO much .
 
 > According to their figures, the top 4 chains represent almost half of the theater screens in North America. NATO states that the number of U.S. movie screens as of December 2014 are 39,356 indoor screens on 5,463 sites and 656 Drive-In screens on 393 sites.
 
