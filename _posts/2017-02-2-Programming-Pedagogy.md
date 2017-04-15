@@ -42,7 +42,10 @@ comments: false
   + you need to comeup with a STRUCTURE to mimic (Model) the Problem , this process is called Modelling.
 3. **De-compostion** ( what is compose? like in Compose a Story: take multiple parts and combine them into ONE )
  + braking problem in to atomic Units and connect them
- +
+ + 'Text processing' is one good example of De-Compose.
+ + Ask people to write a program to split a long strings file into separate sentnece based on multiple de-limiters. They may write bit complex logic. Give them a a pater tape printed in same String characters ask to do same splitting of sentenses.
+ + good soution: First Person mark with a pen ALL different delimiters (just One Job) , then next persion will cut with a sessiors where there is INK MARK ( He does JUST that ONE JOB). This is how you do as Efficient Human Manual JOB, why NOT do same way in PROGRAMMING .
+ 
 4. **Modelling Complex example:**
  + You are the first person standing in a line for a Concert Tickets. You bought 2 tickets and your friend just called he won't be able to join you for the concert. Now you have one extra ticket to sell to somebody ( there are 100s of people in line), you thought for a  second and decided you will sell that ticket to a person who is wearing same colour shirt (top) as yours starting from LAST person of the Line.
  + write a function to calculate the Distance (how many people are in) between both of you 
