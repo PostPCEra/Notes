@@ -58,8 +58,9 @@ with respect to base Atomic operations MAP/Reduce/Filter
  + How Coding Bot will figure it out MAP_FUNC vs. MAP_CAT . When ALL output Elements are of same type, then BOT make  is as MAP_FUNC
  + How the BOT go about  FizBuzz vs. Person Type problmes
   + FizzBuzz : if number is multiple of 3 print 'Fizz', if multiple of 5 , print 'Buzz', mul of both print 'FizzBuzz' , otherwise print number
+  + FizzBuzz is a MAP not FILTER becoz len(output) = len(input) , FizzBuzz is a CATEGORY map, where as Squares is a Functonal map (uniform function )
  ``` 
- input = [ 1,2,3,4,5,6,7,9.10.11,12,13,14,15 ... ]
+ input = [ 1,2,3,4,5,6,7,9.10.11,12,13,14,15, 16,17]
  output = [ 1,2, 'Fizz, 4, 'Buzz', 'Fizz', 7, 8,'Fizz', 'Buzz, ..  14, 'FizzBuzz', 16, 17 ]
  
  map_func, map_cat = False  # init
@@ -133,7 +134,7 @@ INPUT Record1(name, age)
 OUTPUT Record1
 OUTPUT(type) = F(INPUT(age)) # optinoally you can sepcify relationship, to make BOT life easy
 END
-
+``` 
 Here is Reserved words DEFINE DATA INPUT OUTPUT will help form SYNTAX Rules, so a program can process this construct CODE 
 
 Here INPUT is subset of Record1, output is full Record1. This kid of format Eliminate the need to Repeat of Data for INPUT and OUTPUT two times.
