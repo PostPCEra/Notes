@@ -116,8 +116,9 @@ Application in real life:
 
 
 **1/ Have Test data in  YMALs Simplified Format**
- ``` 
-Record1: name, age, type  # makesure you provide DATA for EDGE cases, good practice start data with MIN value and End with MAX value
+ ```  
+DEFINE Record1(name, age, type)  # makesure you provide DATA for EDGE cases, start data with MIN value and End with MAX value
+DATA Record1
 ritu, 1, child
 shiven, 7, child
 boy2, 12, child
@@ -128,11 +129,14 @@ girlT, 19, teen
 gitu, 15, teen
 ishu, 13, teen
 #transormations
-INPUT: name, age
-OUTPUT: Record1
-OUTPUT(type) = F(input(age)) # optinoally you can sepcify relationship, to make BOT life easy
- ``` 
-Here is INPUT is subset of RECORD1, output is full Record1
+INPUT Record1(name, age)
+OUTPUT Record1
+OUTPUT(type) = F(INPUT(age)) # optinoally you can sepcify relationship, to make BOT life easy
+END
+
+Here is Reserved words DEFINE DATA INPUT OUTPUT will help form SYNTAX Rules, so a program can process this construct CODE 
+
+Here INPUT is subset of Record1, output is full Record1. This kid of format Eliminate the need to Repeat of Data for INPUT and OUTPUT two times.
 
 **2/ BOT will arrange TEST Data Records as matrix.**
  ``` 
