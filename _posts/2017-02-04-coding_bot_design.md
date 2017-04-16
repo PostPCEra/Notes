@@ -135,7 +135,7 @@ OUTPUT Record1
 OUTPUT(type) = F(INPUT(age)) # optinoally you can sepcify relationship, to make BOT life easy
 END
 ``` 
-Here is Reserved words DEFINE DATA INPUT OUTPUT will help form SYNTAX Rules, so a program can process this construct CODE 
+Here is Reserved words DEFINE DATA INPUT OUTPUT will help form SYNTAX Rules, so a program can process this then construct and spit Code as output
 
 Here INPUT is subset of Record1, output is full Record1. This kid of format Eliminate the need to Repeat of Data for INPUT and OUTPUT two times.
 
