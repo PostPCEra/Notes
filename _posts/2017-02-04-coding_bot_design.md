@@ -8,6 +8,14 @@ comments: false
 Real-time Assisted Programming (RAP ) : Design of a Coding Bot 
 =======================
 
++ 0/ Cost per line of CODE : $1 per line
+  + $1 /LOC : Having a base line pay say $1 per each line of code that pushed to production. Blnak lines, block markers { } , import , varriable declarations DOES NOT count. There will be 'Automated CODE Compacter' if someone try to Bloat CODE.
+  + So for a $5000 /month pay of 20 working days/month , one has to produce 250 LOC/day ( Lines of Code per day )
+  + so a CODING BOT Tool, which produce 10% more that is 25 Lines of code/day is saving $6000/year (10% of $60K)
+  + So Saving $6000, then $600/year Subscription cost is justed that is  10%
+  
+  + so using a Library like [Cleaver Formater](http://nosir.github.io/cleave.js/) , it reduces 5 lines of Code per each INPUT Filed in UI CODE, 5 Lines less Testing for QA Team.
+  
 + 1/ Sourced : Build AI that does [real-time assisted programming](https://blog.sourced.tech/post/our-roadmap/)
   + Emulating the work of human developers means must have built an understanding of the different ways a piece of code can be written.
   + Let’s consider a simple piece of code written by a developer: a function that has well **defined inputs and outputs** and no side-effects, and you imagine how a machine might be able to write this.
