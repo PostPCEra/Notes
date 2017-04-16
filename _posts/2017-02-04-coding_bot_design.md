@@ -37,7 +37,13 @@ How User Interface Works
   + string delimit ( like our Soloka delimit by \",\" )
   + string chunks ( or Chars) removal
   + extract Reg Ex data
- 
++ Date Format convertions ( Calender )
+  + convert Date/Time values from one format to another 
+  
++ Sorting
+  + Sort Various objects such as Lists(Array), Dictionaries ( Hash) . examples
+  + sort by: name, age DESC
+
 + Filtering
   + Objects  ( object of (name, age, salary) )
 
